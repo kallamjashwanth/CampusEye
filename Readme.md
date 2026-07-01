@@ -54,9 +54,7 @@ All modules are integrated into a single interactive **Streamlit Dashboard**.
 
 # System Architecture
 
-<p align="center">
-  <img src="images_readme/architecture.png" width="1000">
-</p>
+<p align="center"><img src="images_readme/architecture.png" width="1000"></p>
 
 ---
 
