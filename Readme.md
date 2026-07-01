@@ -72,7 +72,7 @@ All modules are integrated into a single interactive **Streamlit Dashboard**.
 
 [🎥 Streamlit Dashboard Demo](images_readme/streamlit%20demo.mp4)
 
-
+# smart classroom
 ### AI Models
 
 - YOLOv8
