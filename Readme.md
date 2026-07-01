@@ -148,9 +148,13 @@ streamlit run app.py
 ---
 
 # Developed By
+
 **Kallam Jashwanth**
+
 Summer Internship (AI/ML & IoT)
+
 National Institute of Technology Warangal
+
 Indian Institute of Technology Bhubaneswar
 
 ---
