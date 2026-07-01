@@ -72,48 +72,6 @@ All modules are integrated into a single interactive **Streamlit Dashboard**.
 
 [🎥 Streamlit Dashboard Demo](images_readme/streamlit%20demo.mp4)
 
-# smart classroom
-### AI Models
-
-- YOLOv8
-- Random Forest Regressor
-
-### Hardware
-
-- ESP32
-- DHT11
-- PIR Sensor
-- LDR Sensor
-- LEDs
-- Mini Fan
-
----
-
-# Smart Mess
-
-### AI Models
-
-- YOLOv8
-- LSTM
-
----
-
-# Smart Dustbin
-
-### AI Models
-
-- Stacking Regressor
-  - SVR
-  - XGBoost
-  - CatBoost
-  - Random Forest (Meta Model)
-
-### Hardware
-
-- ESP32
-- HC-SR04 Ultrasonic Sensor
-
----
 
 # AI Models Used
 
@@ -190,13 +148,9 @@ streamlit run app.py
 ---
 
 # Developed By
-
 **Kallam Jashwanth**
-
 Summer Internship (AI/ML & IoT)
-
 National Institute of Technology Warangal
-
 Indian Institute of Technology Bhubaneswar
 
 ---
