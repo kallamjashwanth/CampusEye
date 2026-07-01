@@ -9,3 +9,9 @@ tensorflow
 scikit-learn
 streamlit
 matplotlib
+opencv-python
+pyserial
+moviepy
+catboost
+xgboost
+
