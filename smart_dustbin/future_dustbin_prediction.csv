@@ -1,0 +1,361 @@
+future_day,time_slot,bin_name,location,predicted_fill,priority,days_remaining,collection_status
+1,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+1,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+1,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+1,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+2,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+2,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+2,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+2,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+3,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+3,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+3,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+3,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+4,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+4,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+4,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+4,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+5,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+5,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+5,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+5,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+6,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+6,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+6,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+6,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+7,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+7,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+7,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+7,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+8,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+8,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+8,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+8,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+9,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+9,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+9,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+9,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+10,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+10,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+10,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+10,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+11,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+11,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+11,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+11,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+12,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+12,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+12,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+12,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+13,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+13,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+13,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+13,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+14,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+14,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+14,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+14,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+15,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+15,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+15,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+15,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+16,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+16,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+16,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+16,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+17,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+17,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+17,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+17,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+18,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+18,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+18,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+18,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+19,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+19,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+19,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+19,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+20,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+20,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+20,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+20,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+21,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+21,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+21,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+21,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+22,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+22,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+22,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+22,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+23,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+23,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+23,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+23,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+24,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+24,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+24,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+24,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+25,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+25,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+25,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+25,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+26,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+26,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+26,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+26,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+27,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+27,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+27,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+27,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+28,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+28,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+28,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+28,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+29,Morning,Classroom Bin,Classroom Area,100.0,Urgent,0.0,Not Collected
+29,Afternoon,Classroom Bin,Classroom Area,5.0,Low,1.7,Collected / Reset
+29,Evening,Classroom Bin,Classroom Area,18.61,Low,1.5,Not Collected
+29,Night,Classroom Bin,Classroom Area,32.23,Low,1.2,Not Collected
+30,Morning,Classroom Bin,Classroom Area,45.84,Low,1.0,Not Collected
+30,Afternoon,Classroom Bin,Classroom Area,59.46,Medium,0.7,Not Collected
+30,Evening,Classroom Bin,Classroom Area,73.07,Medium,0.5,Not Collected
+30,Night,Classroom Bin,Classroom Area,86.69,High,0.2,Not Collected
+1,Morning,Hostel Bin,Hostel Area,54.33,Medium,1.2,Not Collected
+1,Afternoon,Hostel Bin,Hostel Area,63.56,Medium,1.0,Not Collected
+1,Evening,Hostel Bin,Hostel Area,72.79,Medium,0.7,Not Collected
+1,Night,Hostel Bin,Hostel Area,82.02,High,0.5,Not Collected
+2,Morning,Hostel Bin,Hostel Area,91.25,Urgent,0.2,Not Collected
+2,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+2,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+2,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+3,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+3,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+3,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+3,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+4,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+4,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+4,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+4,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+5,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+5,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+5,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+5,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+6,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+6,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+6,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+6,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+7,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+7,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+7,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+7,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+8,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+8,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+8,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+8,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+9,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+9,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+9,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+9,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+10,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+10,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+10,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+10,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+11,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+11,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+11,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+11,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+12,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+12,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+12,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+12,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+13,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+13,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+13,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+13,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+14,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+14,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+14,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+14,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+15,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+15,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+15,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+15,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+16,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+16,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+16,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+16,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+17,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+17,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+17,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+17,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+18,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+18,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+18,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+18,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+19,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+19,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+19,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+19,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+20,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+20,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+20,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+20,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+21,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+21,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+21,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+21,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+22,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+22,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+22,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+22,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+23,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+23,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+23,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+23,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+24,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+24,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+24,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+24,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+25,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+25,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+25,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+25,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+26,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+26,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+26,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+26,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+27,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+27,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+27,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+27,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+28,Morning,Hostel Bin,Hostel Area,60.38,Medium,1.1,Not Collected
+28,Afternoon,Hostel Bin,Hostel Area,69.61,Medium,0.8,Not Collected
+28,Evening,Hostel Bin,Hostel Area,78.84,High,0.6,Not Collected
+28,Night,Hostel Bin,Hostel Area,88.07,High,0.3,Not Collected
+29,Morning,Hostel Bin,Hostel Area,97.3,Urgent,0.1,Not Collected
+29,Afternoon,Hostel Bin,Hostel Area,100.0,Urgent,0.0,Not Collected
+29,Evening,Hostel Bin,Hostel Area,5.0,Low,2.6,Collected / Reset
+29,Night,Hostel Bin,Hostel Area,14.23,Low,2.3,Not Collected
+30,Morning,Hostel Bin,Hostel Area,23.46,Low,2.1,Not Collected
+30,Afternoon,Hostel Bin,Hostel Area,32.69,Low,1.8,Not Collected
+30,Evening,Hostel Bin,Hostel Area,41.92,Low,1.6,Not Collected
+30,Night,Hostel Bin,Hostel Area,51.15,Medium,1.3,Not Collected
+1,Morning,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+1,Afternoon,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+1,Evening,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+1,Night,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+2,Morning,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+2,Afternoon,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+2,Evening,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+2,Night,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+3,Morning,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+3,Afternoon,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+3,Evening,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+3,Night,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+4,Morning,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+4,Afternoon,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+4,Evening,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+4,Night,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+5,Morning,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+5,Afternoon,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+5,Evening,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+5,Night,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+6,Morning,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+6,Afternoon,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+6,Evening,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+6,Night,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+7,Morning,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+7,Afternoon,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+7,Evening,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+7,Night,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+8,Morning,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+8,Afternoon,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+8,Evening,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+8,Night,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+9,Morning,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+9,Afternoon,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+9,Evening,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+9,Night,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+10,Morning,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+10,Afternoon,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+10,Evening,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+10,Night,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+11,Morning,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+11,Afternoon,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+11,Evening,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+11,Night,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+12,Morning,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+12,Afternoon,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+12,Evening,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+12,Night,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+13,Morning,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+13,Afternoon,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+13,Evening,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+13,Night,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+14,Morning,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+14,Afternoon,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+14,Evening,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+14,Night,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+15,Morning,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+15,Afternoon,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+15,Evening,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+15,Night,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+16,Morning,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+16,Afternoon,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+16,Evening,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+16,Night,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+17,Morning,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+17,Afternoon,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+17,Evening,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+17,Night,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+18,Morning,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+18,Afternoon,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+18,Evening,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+18,Night,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+19,Morning,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+19,Afternoon,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+19,Evening,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+19,Night,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+20,Morning,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+20,Afternoon,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+20,Evening,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+20,Night,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+21,Morning,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+21,Afternoon,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+21,Evening,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+21,Night,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+22,Morning,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+22,Afternoon,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+22,Evening,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+22,Night,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+23,Morning,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+23,Afternoon,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+23,Evening,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+23,Night,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+24,Morning,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+24,Afternoon,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+24,Evening,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+24,Night,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+25,Morning,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+25,Afternoon,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+25,Evening,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+25,Night,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+26,Morning,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+26,Afternoon,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+26,Evening,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+26,Night,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+27,Morning,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+27,Afternoon,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+27,Evening,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+27,Night,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+28,Morning,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+28,Afternoon,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+28,Evening,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+28,Night,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+29,Morning,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+29,Afternoon,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+29,Evening,Mess Bin,Mess Area,86.88,High,0.1,Not Collected
+29,Night,Mess Bin,Mess Area,100.0,Urgent,0.0,Not Collected
+30,Morning,Mess Bin,Mess Area,5.0,Low,0.9,Collected / Reset
+30,Afternoon,Mess Bin,Mess Area,32.29,Low,0.6,Not Collected
+30,Evening,Mess Bin,Mess Area,59.59,Medium,0.4,Not Collected
+30,Night,Mess Bin,Mess Area,86.88,High,0.1,Not Collected

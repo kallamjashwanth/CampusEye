@@ -1,0 +1,1891 @@
+image,time,count,final_count,minutes,crowd_level,mess_session,day
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,1
+img_33.jpg,6.40 AM,1,0,400,Empty,Closed/Empty Time,1
+img_35.jpg,7.05 AM,11,9,425,Less Crowded,Breakfast,1
+img_37.jpg,7.10 AM,17,14,430,Moderate,Breakfast,1
+img_39.jpg,7.15 AM,4,6,435,Less Crowded,Breakfast,1
+img_41.jpg,7.20 AM,23,20,440,Moderate,Breakfast,1
+img_43.jpg,7.30 AM,53,55,450,Very Crowded,Breakfast,1
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,1
+img_47.jpg,7.55 AM,23,23,475,Moderate,Breakfast,1
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,1
+img_52.jpg,8.15 AM,48,47,495,Crowded,Breakfast,1
+img_54.jpg,8.18 AM,57,60,498,Very Crowded,Breakfast,1
+img_55.jpg,8.20 AM,70,70,500,Very Crowded,Breakfast,1
+img_56.jpg,8.30 AM,89,90,510,Very Crowded,Breakfast,1
+img_58.jpg,8.40 AM,97,100,520,Very Crowded,Breakfast,1
+img_60.jpg,9.10 AM,33,35,550,Crowded,Closed/Empty Time,1
+img_62.jpg,9.15 AM,87,85,555,Very Crowded,Closed/Empty Time,1
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,1
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,1
+img_9.jpg,10.30 AM,2,0,630,Empty,Closed/Empty Time,1
+img_11.jpg,10.45 AM,2,0,645,Empty,Closed/Empty Time,1
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,1
+img_13.jpg,11.20 AM,1,0,680,Empty,Closed/Empty Time,1
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,1
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,1
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,1
+img_17.jpg,12.05 PM,23,20,725,Moderate,Lunch,1
+img_18.jpg,12.10 PM,10,8,730,Less Crowded,Lunch,1
+img_19.jpg,12.15 PM,17,15,735,Moderate,Lunch,1
+img_20.jpg,12.20 PM,9,7,740,Less Crowded,Lunch,1
+img_21.jpg,12.30 PM,23,25,750,Moderate,Lunch,1
+img_22.jpg,12.40 PM,57,60,760,Very Crowded,Lunch,1
+img_23.jpg,12.50 PM,22,23,770,Moderate,Lunch,1
+img_1.jpg,1.10 PM,70,70,790,Very Crowded,Lunch,1
+img_2.jpg,1.20 PM,88,85,800,Very Crowded,Lunch,1
+img_3.jpg,1.26 PM,77,80,806,Very Crowded,Lunch,1
+img_4.jpg,1.35 PM,88,90,815,Very Crowded,Lunch,1
+img_5.jpg,1.45 PM,98,100,825,Very Crowded,Lunch,1
+img_6.jpg,1.55 PM,101,100,835,Very Crowded,Lunch,1
+img_24.jpg,2.00 PM,100,100,840,Very Crowded,Lunch,1
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,1
+img_26.jpg,2.20 PM,11,14,860,Moderate,Closed/Empty Time,1
+img_27.jpg,3.15 PM,1,0,915,Empty,Closed/Empty Time,1
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,1
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,1
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,1
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,1
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,1
+img_36.jpg,7.05 PM,10,11,1145,Moderate,Dinner,1
+img_38.jpg,7.10 PM,5,2,1150,Less Crowded,Dinner,1
+img_40.jpg,7.15 PM,22,20,1155,Moderate,Dinner,1
+img_42.jpg,7.20 PM,19,22,1160,Moderate,Dinner,1
+img_44.jpg,7.30 PM,66,65,1170,Very Crowded,Dinner,1
+img_46.jpg,7.45 PM,48,45,1185,Crowded,Dinner,1
+img_48.jpg,7.55 PM,32,30,1195,Crowded,Dinner,1
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,1
+img_51.jpg,8.10 PM,88,90,1210,Very Crowded,Dinner,1
+img_53.jpg,8.15 PM,50,47,1215,Crowded,Dinner,1
+img_57.jpg,8.30 PM,60,58,1230,Very Crowded,Dinner,1
+img_59.jpg,8.50 PM,62,60,1250,Very Crowded,Dinner,1
+img_61.jpg,9.10 PM,8,5,1270,Less Crowded,Closed/Empty Time,1
+img_63.jpg,9.15 PM,66,65,1275,Very Crowded,Closed/Empty Time,1
+img_10.jpg,10.30 PM,3,0,1350,Empty,Closed/Empty Time,1
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,2
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,2
+img_35.jpg,7.05 AM,11,9,425,Less Crowded,Breakfast,2
+img_37.jpg,7.10 AM,15,14,430,Moderate,Breakfast,2
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,2
+img_41.jpg,7.20 AM,21,20,440,Moderate,Breakfast,2
+img_43.jpg,7.30 AM,52,55,450,Very Crowded,Breakfast,2
+img_45.jpg,7.45 AM,69,70,465,Very Crowded,Breakfast,2
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,2
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,2
+img_52.jpg,8.15 AM,50,47,495,Crowded,Breakfast,2
+img_54.jpg,8.18 AM,61,60,498,Very Crowded,Breakfast,2
+img_55.jpg,8.20 AM,68,70,500,Very Crowded,Breakfast,2
+img_56.jpg,8.30 AM,87,90,510,Very Crowded,Breakfast,2
+img_58.jpg,8.40 AM,97,100,520,Very Crowded,Breakfast,2
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,2
+img_62.jpg,9.15 AM,88,85,555,Very Crowded,Closed/Empty Time,2
+img_7.jpg,10.00 AM,3,0,600,Empty,Closed/Empty Time,2
+img_8.jpg,10.16 AM,2,0,616,Empty,Closed/Empty Time,2
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,2
+img_11.jpg,10.45 AM,1,0,645,Empty,Closed/Empty Time,2
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,2
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,2
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,2
+img_15.jpg,11.40 AM,1,0,700,Empty,Closed/Empty Time,2
+img_16.jpg,12.00 PM,21,21,720,Moderate,Lunch,2
+img_17.jpg,12.05 PM,20,20,725,Moderate,Lunch,2
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,2
+img_19.jpg,12.15 PM,12,15,735,Moderate,Lunch,2
+img_20.jpg,12.20 PM,10,7,740,Less Crowded,Lunch,2
+img_21.jpg,12.30 PM,26,25,750,Moderate,Lunch,2
+img_22.jpg,12.40 PM,58,60,760,Very Crowded,Lunch,2
+img_23.jpg,12.50 PM,26,23,770,Moderate,Lunch,2
+img_1.jpg,1.10 PM,72,70,790,Very Crowded,Lunch,2
+img_2.jpg,1.20 PM,82,85,800,Very Crowded,Lunch,2
+img_3.jpg,1.26 PM,78,80,806,Very Crowded,Lunch,2
+img_4.jpg,1.35 PM,89,90,815,Very Crowded,Lunch,2
+img_5.jpg,1.45 PM,103,100,825,Very Crowded,Lunch,2
+img_6.jpg,1.55 PM,101,100,835,Very Crowded,Lunch,2
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,2
+img_25.jpg,2.05 PM,20,18,845,Moderate,Closed/Empty Time,2
+img_26.jpg,2.20 PM,16,14,860,Moderate,Closed/Empty Time,2
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,2
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,2
+img_29.jpg,6.15 PM,2,0,1095,Empty,Closed/Empty Time,2
+img_31.jpg,6.20 PM,3,0,1100,Empty,Closed/Empty Time,2
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,2
+img_34.jpg,6.41 PM,1,0,1121,Empty,Closed/Empty Time,2
+img_36.jpg,7.05 PM,10,11,1145,Moderate,Dinner,2
+img_38.jpg,7.10 PM,0,2,1150,Less Crowded,Dinner,2
+img_40.jpg,7.15 PM,17,20,1155,Moderate,Dinner,2
+img_42.jpg,7.20 PM,22,22,1160,Moderate,Dinner,2
+img_44.jpg,7.30 PM,64,65,1170,Very Crowded,Dinner,2
+img_46.jpg,7.45 PM,47,45,1185,Crowded,Dinner,2
+img_48.jpg,7.55 PM,30,30,1195,Crowded,Dinner,2
+img_50.jpg,8.00 PM,78,80,1200,Very Crowded,Dinner,2
+img_51.jpg,8.10 PM,88,90,1210,Very Crowded,Dinner,2
+img_53.jpg,8.15 PM,45,47,1215,Crowded,Dinner,2
+img_57.jpg,8.30 PM,55,58,1230,Very Crowded,Dinner,2
+img_59.jpg,8.50 PM,59,60,1250,Very Crowded,Dinner,2
+img_61.jpg,9.10 PM,2,5,1270,Less Crowded,Closed/Empty Time,2
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,2
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,2
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,3
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,3
+img_35.jpg,7.05 AM,7,9,425,Less Crowded,Breakfast,3
+img_37.jpg,7.10 AM,12,14,430,Moderate,Breakfast,3
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,3
+img_41.jpg,7.20 AM,23,20,440,Moderate,Breakfast,3
+img_43.jpg,7.30 AM,55,55,450,Very Crowded,Breakfast,3
+img_45.jpg,7.45 AM,70,70,465,Very Crowded,Breakfast,3
+img_47.jpg,7.55 AM,23,23,475,Moderate,Breakfast,3
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,3
+img_52.jpg,8.15 AM,44,47,495,Crowded,Breakfast,3
+img_54.jpg,8.18 AM,63,60,498,Very Crowded,Breakfast,3
+img_55.jpg,8.20 AM,69,70,500,Very Crowded,Breakfast,3
+img_56.jpg,8.30 AM,87,90,510,Very Crowded,Breakfast,3
+img_58.jpg,8.40 AM,103,100,520,Very Crowded,Breakfast,3
+img_60.jpg,9.10 AM,35,35,550,Crowded,Closed/Empty Time,3
+img_62.jpg,9.15 AM,84,85,555,Very Crowded,Closed/Empty Time,3
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,3
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,3
+img_9.jpg,10.30 AM,1,0,630,Empty,Closed/Empty Time,3
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,3
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,3
+img_13.jpg,11.20 AM,1,0,680,Empty,Closed/Empty Time,3
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,3
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,3
+img_16.jpg,12.00 PM,18,21,720,Moderate,Lunch,3
+img_17.jpg,12.05 PM,21,20,725,Moderate,Lunch,3
+img_18.jpg,12.10 PM,11,8,730,Less Crowded,Lunch,3
+img_19.jpg,12.15 PM,12,15,735,Moderate,Lunch,3
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,3
+img_21.jpg,12.30 PM,24,25,750,Moderate,Lunch,3
+img_22.jpg,12.40 PM,62,60,760,Very Crowded,Lunch,3
+img_23.jpg,12.50 PM,23,23,770,Moderate,Lunch,3
+img_1.jpg,1.10 PM,71,70,790,Very Crowded,Lunch,3
+img_2.jpg,1.20 PM,88,85,800,Very Crowded,Lunch,3
+img_3.jpg,1.26 PM,83,80,806,Very Crowded,Lunch,3
+img_4.jpg,1.35 PM,89,90,815,Very Crowded,Lunch,3
+img_5.jpg,1.45 PM,100,100,825,Very Crowded,Lunch,3
+img_6.jpg,1.55 PM,103,100,835,Very Crowded,Lunch,3
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,3
+img_25.jpg,2.05 PM,21,18,845,Moderate,Closed/Empty Time,3
+img_26.jpg,2.20 PM,14,14,860,Moderate,Closed/Empty Time,3
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,3
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,3
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,3
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,3
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,3
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,3
+img_36.jpg,7.05 PM,8,11,1145,Moderate,Dinner,3
+img_38.jpg,7.10 PM,5,2,1150,Less Crowded,Dinner,3
+img_40.jpg,7.15 PM,17,20,1155,Moderate,Dinner,3
+img_42.jpg,7.20 PM,20,22,1160,Moderate,Dinner,3
+img_44.jpg,7.30 PM,66,65,1170,Very Crowded,Dinner,3
+img_46.jpg,7.45 PM,48,45,1185,Crowded,Dinner,3
+img_48.jpg,7.55 PM,27,30,1195,Crowded,Dinner,3
+img_50.jpg,8.00 PM,81,80,1200,Very Crowded,Dinner,3
+img_51.jpg,8.10 PM,90,90,1210,Very Crowded,Dinner,3
+img_53.jpg,8.15 PM,48,47,1215,Crowded,Dinner,3
+img_57.jpg,8.30 PM,56,58,1230,Very Crowded,Dinner,3
+img_59.jpg,8.50 PM,58,60,1250,Very Crowded,Dinner,3
+img_61.jpg,9.10 PM,7,5,1270,Less Crowded,Closed/Empty Time,3
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,3
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,3
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,4
+img_33.jpg,6.40 AM,2,0,400,Empty,Closed/Empty Time,4
+img_35.jpg,7.05 AM,10,9,425,Less Crowded,Breakfast,4
+img_37.jpg,7.10 AM,11,14,430,Moderate,Breakfast,4
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,4
+img_41.jpg,7.20 AM,17,20,440,Moderate,Breakfast,4
+img_43.jpg,7.30 AM,58,55,450,Very Crowded,Breakfast,4
+img_45.jpg,7.45 AM,67,70,465,Very Crowded,Breakfast,4
+img_47.jpg,7.55 AM,26,23,475,Moderate,Breakfast,4
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,4
+img_52.jpg,8.15 AM,48,47,495,Crowded,Breakfast,4
+img_54.jpg,8.18 AM,61,60,498,Very Crowded,Breakfast,4
+img_55.jpg,8.20 AM,70,70,500,Very Crowded,Breakfast,4
+img_56.jpg,8.30 AM,87,90,510,Very Crowded,Breakfast,4
+img_58.jpg,8.40 AM,98,100,520,Very Crowded,Breakfast,4
+img_60.jpg,9.10 AM,34,35,550,Crowded,Closed/Empty Time,4
+img_62.jpg,9.15 AM,88,85,555,Very Crowded,Closed/Empty Time,4
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,4
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,4
+img_9.jpg,10.30 AM,2,0,630,Empty,Closed/Empty Time,4
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,4
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,4
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,4
+img_14.jpg,11.30 AM,2,0,690,Empty,Closed/Empty Time,4
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,4
+img_16.jpg,12.00 PM,18,21,720,Moderate,Lunch,4
+img_17.jpg,12.05 PM,20,20,725,Moderate,Lunch,4
+img_18.jpg,12.10 PM,8,8,730,Less Crowded,Lunch,4
+img_19.jpg,12.15 PM,17,15,735,Moderate,Lunch,4
+img_20.jpg,12.20 PM,9,7,740,Less Crowded,Lunch,4
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,4
+img_22.jpg,12.40 PM,60,60,760,Very Crowded,Lunch,4
+img_23.jpg,12.50 PM,26,23,770,Moderate,Lunch,4
+img_1.jpg,1.10 PM,71,70,790,Very Crowded,Lunch,4
+img_2.jpg,1.20 PM,84,85,800,Very Crowded,Lunch,4
+img_3.jpg,1.26 PM,77,80,806,Very Crowded,Lunch,4
+img_4.jpg,1.35 PM,91,90,815,Very Crowded,Lunch,4
+img_5.jpg,1.45 PM,101,100,825,Very Crowded,Lunch,4
+img_6.jpg,1.55 PM,100,100,835,Very Crowded,Lunch,4
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,4
+img_25.jpg,2.05 PM,18,18,845,Moderate,Closed/Empty Time,4
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,4
+img_27.jpg,3.15 PM,2,0,915,Empty,Closed/Empty Time,4
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,4
+img_29.jpg,6.15 PM,1,0,1095,Empty,Closed/Empty Time,4
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,4
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,4
+img_34.jpg,6.41 PM,3,0,1121,Empty,Closed/Empty Time,4
+img_36.jpg,7.05 PM,14,11,1145,Moderate,Dinner,4
+img_38.jpg,7.10 PM,0,2,1150,Less Crowded,Dinner,4
+img_40.jpg,7.15 PM,19,20,1155,Moderate,Dinner,4
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,4
+img_44.jpg,7.30 PM,65,65,1170,Very Crowded,Dinner,4
+img_46.jpg,7.45 PM,43,45,1185,Crowded,Dinner,4
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,4
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,4
+img_51.jpg,8.10 PM,88,90,1210,Very Crowded,Dinner,4
+img_53.jpg,8.15 PM,47,47,1215,Crowded,Dinner,4
+img_57.jpg,8.30 PM,57,58,1230,Very Crowded,Dinner,4
+img_59.jpg,8.50 PM,59,60,1250,Very Crowded,Dinner,4
+img_61.jpg,9.10 PM,2,5,1270,Less Crowded,Closed/Empty Time,4
+img_63.jpg,9.15 PM,62,65,1275,Very Crowded,Closed/Empty Time,4
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,4
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,5
+img_33.jpg,6.40 AM,2,0,400,Empty,Closed/Empty Time,5
+img_35.jpg,7.05 AM,6,9,425,Less Crowded,Breakfast,5
+img_37.jpg,7.10 AM,14,14,430,Moderate,Breakfast,5
+img_39.jpg,7.15 AM,5,6,435,Less Crowded,Breakfast,5
+img_41.jpg,7.20 AM,20,20,440,Moderate,Breakfast,5
+img_43.jpg,7.30 AM,56,55,450,Very Crowded,Breakfast,5
+img_45.jpg,7.45 AM,70,70,465,Very Crowded,Breakfast,5
+img_47.jpg,7.55 AM,21,23,475,Moderate,Breakfast,5
+img_49.jpg,8.00 AM,44,46,480,Crowded,Breakfast,5
+img_52.jpg,8.15 AM,48,47,495,Crowded,Breakfast,5
+img_54.jpg,8.18 AM,59,60,498,Very Crowded,Breakfast,5
+img_55.jpg,8.20 AM,67,70,500,Very Crowded,Breakfast,5
+img_56.jpg,8.30 AM,92,90,510,Very Crowded,Breakfast,5
+img_58.jpg,8.40 AM,101,100,520,Very Crowded,Breakfast,5
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,5
+img_62.jpg,9.15 AM,85,85,555,Very Crowded,Closed/Empty Time,5
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,5
+img_8.jpg,10.16 AM,1,0,616,Empty,Closed/Empty Time,5
+img_9.jpg,10.30 AM,1,0,630,Empty,Closed/Empty Time,5
+img_11.jpg,10.45 AM,3,0,645,Empty,Closed/Empty Time,5
+img_12.jpg,11.00 AM,2,0,660,Empty,Closed/Empty Time,5
+img_13.jpg,11.20 AM,3,0,680,Empty,Closed/Empty Time,5
+img_14.jpg,11.30 AM,1,0,690,Empty,Closed/Empty Time,5
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,5
+img_16.jpg,12.00 PM,18,21,720,Moderate,Lunch,5
+img_17.jpg,12.05 PM,17,20,725,Moderate,Lunch,5
+img_18.jpg,12.10 PM,9,8,730,Less Crowded,Lunch,5
+img_19.jpg,12.15 PM,13,15,735,Moderate,Lunch,5
+img_20.jpg,12.20 PM,10,7,740,Less Crowded,Lunch,5
+img_21.jpg,12.30 PM,28,25,750,Moderate,Lunch,5
+img_22.jpg,12.40 PM,63,60,760,Very Crowded,Lunch,5
+img_23.jpg,12.50 PM,22,23,770,Moderate,Lunch,5
+img_1.jpg,1.10 PM,68,70,790,Very Crowded,Lunch,5
+img_2.jpg,1.20 PM,85,85,800,Very Crowded,Lunch,5
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,5
+img_4.jpg,1.35 PM,87,90,815,Very Crowded,Lunch,5
+img_5.jpg,1.45 PM,99,100,825,Very Crowded,Lunch,5
+img_6.jpg,1.55 PM,103,100,835,Very Crowded,Lunch,5
+img_24.jpg,2.00 PM,101,100,840,Very Crowded,Lunch,5
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,5
+img_26.jpg,2.20 PM,15,14,860,Moderate,Closed/Empty Time,5
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,5
+img_28.jpg,4.20 PM,2,0,980,Empty,Closed/Empty Time,5
+img_29.jpg,6.15 PM,1,0,1095,Empty,Closed/Empty Time,5
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,5
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,5
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,5
+img_36.jpg,7.05 PM,14,11,1145,Moderate,Dinner,5
+img_38.jpg,7.10 PM,4,2,1150,Less Crowded,Dinner,5
+img_40.jpg,7.15 PM,21,20,1155,Moderate,Dinner,5
+img_42.jpg,7.20 PM,22,22,1160,Moderate,Dinner,5
+img_44.jpg,7.30 PM,64,65,1170,Very Crowded,Dinner,5
+img_46.jpg,7.45 PM,43,45,1185,Crowded,Dinner,5
+img_48.jpg,7.55 PM,28,30,1195,Crowded,Dinner,5
+img_50.jpg,8.00 PM,79,80,1200,Very Crowded,Dinner,5
+img_51.jpg,8.10 PM,91,90,1210,Very Crowded,Dinner,5
+img_53.jpg,8.15 PM,49,47,1215,Crowded,Dinner,5
+img_57.jpg,8.30 PM,61,58,1230,Very Crowded,Dinner,5
+img_59.jpg,8.50 PM,58,60,1250,Very Crowded,Dinner,5
+img_61.jpg,9.10 PM,2,5,1270,Less Crowded,Closed/Empty Time,5
+img_63.jpg,9.15 PM,66,65,1275,Very Crowded,Closed/Empty Time,5
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,5
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,6
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,6
+img_35.jpg,7.05 AM,7,9,425,Less Crowded,Breakfast,6
+img_37.jpg,7.10 AM,11,14,430,Moderate,Breakfast,6
+img_39.jpg,7.15 AM,4,6,435,Less Crowded,Breakfast,6
+img_41.jpg,7.20 AM,21,20,440,Moderate,Breakfast,6
+img_43.jpg,7.30 AM,57,55,450,Very Crowded,Breakfast,6
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,6
+img_47.jpg,7.55 AM,24,23,475,Moderate,Breakfast,6
+img_49.jpg,8.00 AM,49,46,480,Crowded,Breakfast,6
+img_52.jpg,8.15 AM,47,47,495,Crowded,Breakfast,6
+img_54.jpg,8.18 AM,58,60,498,Very Crowded,Breakfast,6
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,6
+img_56.jpg,8.30 AM,87,90,510,Very Crowded,Breakfast,6
+img_58.jpg,8.40 AM,103,100,520,Very Crowded,Breakfast,6
+img_60.jpg,9.10 AM,32,35,550,Crowded,Closed/Empty Time,6
+img_62.jpg,9.15 AM,86,85,555,Very Crowded,Closed/Empty Time,6
+img_7.jpg,10.00 AM,3,0,600,Empty,Closed/Empty Time,6
+img_8.jpg,10.16 AM,1,0,616,Empty,Closed/Empty Time,6
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,6
+img_11.jpg,10.45 AM,1,0,645,Empty,Closed/Empty Time,6
+img_12.jpg,11.00 AM,2,0,660,Empty,Closed/Empty Time,6
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,6
+img_14.jpg,11.30 AM,1,0,690,Empty,Closed/Empty Time,6
+img_15.jpg,11.40 AM,2,0,700,Empty,Closed/Empty Time,6
+img_16.jpg,12.00 PM,21,21,720,Moderate,Lunch,6
+img_17.jpg,12.05 PM,19,20,725,Moderate,Lunch,6
+img_18.jpg,12.10 PM,8,8,730,Less Crowded,Lunch,6
+img_19.jpg,12.15 PM,15,15,735,Moderate,Lunch,6
+img_20.jpg,12.20 PM,5,7,740,Less Crowded,Lunch,6
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,6
+img_22.jpg,12.40 PM,63,60,760,Very Crowded,Lunch,6
+img_23.jpg,12.50 PM,24,23,770,Moderate,Lunch,6
+img_1.jpg,1.10 PM,72,70,790,Very Crowded,Lunch,6
+img_2.jpg,1.20 PM,84,85,800,Very Crowded,Lunch,6
+img_3.jpg,1.26 PM,77,80,806,Very Crowded,Lunch,6
+img_4.jpg,1.35 PM,87,90,815,Very Crowded,Lunch,6
+img_5.jpg,1.45 PM,98,100,825,Very Crowded,Lunch,6
+img_6.jpg,1.55 PM,100,100,835,Very Crowded,Lunch,6
+img_24.jpg,2.00 PM,97,100,840,Very Crowded,Lunch,6
+img_25.jpg,2.05 PM,15,18,845,Moderate,Closed/Empty Time,6
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,6
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,6
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,6
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,6
+img_31.jpg,6.20 PM,2,0,1100,Empty,Closed/Empty Time,6
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,6
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,6
+img_36.jpg,7.05 PM,12,11,1145,Moderate,Dinner,6
+img_38.jpg,7.10 PM,1,2,1150,Less Crowded,Dinner,6
+img_40.jpg,7.15 PM,22,20,1155,Moderate,Dinner,6
+img_42.jpg,7.20 PM,22,22,1160,Moderate,Dinner,6
+img_44.jpg,7.30 PM,67,65,1170,Very Crowded,Dinner,6
+img_46.jpg,7.45 PM,45,45,1185,Crowded,Dinner,6
+img_48.jpg,7.55 PM,30,30,1195,Crowded,Dinner,6
+img_50.jpg,8.00 PM,77,80,1200,Very Crowded,Dinner,6
+img_51.jpg,8.10 PM,87,90,1210,Very Crowded,Dinner,6
+img_53.jpg,8.15 PM,47,47,1215,Crowded,Dinner,6
+img_57.jpg,8.30 PM,58,58,1230,Very Crowded,Dinner,6
+img_59.jpg,8.50 PM,57,60,1250,Very Crowded,Dinner,6
+img_61.jpg,9.10 PM,7,5,1270,Less Crowded,Closed/Empty Time,6
+img_63.jpg,9.15 PM,62,65,1275,Very Crowded,Closed/Empty Time,6
+img_10.jpg,10.30 PM,2,0,1350,Empty,Closed/Empty Time,6
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,7
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,7
+img_35.jpg,7.05 AM,12,9,425,Less Crowded,Breakfast,7
+img_37.jpg,7.10 AM,16,14,430,Moderate,Breakfast,7
+img_39.jpg,7.15 AM,6,6,435,Less Crowded,Breakfast,7
+img_41.jpg,7.20 AM,23,20,440,Moderate,Breakfast,7
+img_43.jpg,7.30 AM,53,55,450,Very Crowded,Breakfast,7
+img_45.jpg,7.45 AM,68,70,465,Very Crowded,Breakfast,7
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,7
+img_49.jpg,8.00 AM,45,46,480,Crowded,Breakfast,7
+img_52.jpg,8.15 AM,48,47,495,Crowded,Breakfast,7
+img_54.jpg,8.18 AM,57,60,498,Very Crowded,Breakfast,7
+img_55.jpg,8.20 AM,67,70,500,Very Crowded,Breakfast,7
+img_56.jpg,8.30 AM,92,90,510,Very Crowded,Breakfast,7
+img_58.jpg,8.40 AM,101,100,520,Very Crowded,Breakfast,7
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,7
+img_62.jpg,9.15 AM,83,85,555,Very Crowded,Closed/Empty Time,7
+img_7.jpg,10.00 AM,2,0,600,Empty,Closed/Empty Time,7
+img_8.jpg,10.16 AM,3,0,616,Empty,Closed/Empty Time,7
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,7
+img_11.jpg,10.45 AM,2,0,645,Empty,Closed/Empty Time,7
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,7
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,7
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,7
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,7
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,7
+img_17.jpg,12.05 PM,23,20,725,Moderate,Lunch,7
+img_18.jpg,12.10 PM,8,8,730,Less Crowded,Lunch,7
+img_19.jpg,12.15 PM,15,15,735,Moderate,Lunch,7
+img_20.jpg,12.20 PM,9,7,740,Less Crowded,Lunch,7
+img_21.jpg,12.30 PM,28,25,750,Moderate,Lunch,7
+img_22.jpg,12.40 PM,62,60,760,Very Crowded,Lunch,7
+img_23.jpg,12.50 PM,23,23,770,Moderate,Lunch,7
+img_1.jpg,1.10 PM,69,70,790,Very Crowded,Lunch,7
+img_2.jpg,1.20 PM,83,85,800,Very Crowded,Lunch,7
+img_3.jpg,1.26 PM,80,80,806,Very Crowded,Lunch,7
+img_4.jpg,1.35 PM,89,90,815,Very Crowded,Lunch,7
+img_5.jpg,1.45 PM,99,100,825,Very Crowded,Lunch,7
+img_6.jpg,1.55 PM,98,100,835,Very Crowded,Lunch,7
+img_24.jpg,2.00 PM,102,100,840,Very Crowded,Lunch,7
+img_25.jpg,2.05 PM,18,18,845,Moderate,Closed/Empty Time,7
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,7
+img_27.jpg,3.15 PM,1,0,915,Empty,Closed/Empty Time,7
+img_28.jpg,4.20 PM,2,0,980,Empty,Closed/Empty Time,7
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,7
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,7
+img_32.jpg,6.28 PM,1,0,1108,Empty,Closed/Empty Time,7
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,7
+img_36.jpg,7.05 PM,13,11,1145,Moderate,Dinner,7
+img_38.jpg,7.10 PM,3,2,1150,Less Crowded,Dinner,7
+img_40.jpg,7.15 PM,21,20,1155,Moderate,Dinner,7
+img_42.jpg,7.20 PM,25,22,1160,Moderate,Dinner,7
+img_44.jpg,7.30 PM,64,65,1170,Very Crowded,Dinner,7
+img_46.jpg,7.45 PM,42,45,1185,Crowded,Dinner,7
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,7
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,7
+img_51.jpg,8.10 PM,92,90,1210,Very Crowded,Dinner,7
+img_53.jpg,8.15 PM,44,47,1215,Crowded,Dinner,7
+img_57.jpg,8.30 PM,61,58,1230,Very Crowded,Dinner,7
+img_59.jpg,8.50 PM,59,60,1250,Very Crowded,Dinner,7
+img_61.jpg,9.10 PM,4,5,1270,Less Crowded,Closed/Empty Time,7
+img_63.jpg,9.15 PM,63,65,1275,Very Crowded,Closed/Empty Time,7
+img_10.jpg,10.30 PM,3,0,1350,Empty,Closed/Empty Time,7
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,8
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,8
+img_35.jpg,7.05 AM,6,9,425,Less Crowded,Breakfast,8
+img_37.jpg,7.10 AM,12,14,430,Moderate,Breakfast,8
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,8
+img_41.jpg,7.20 AM,17,20,440,Moderate,Breakfast,8
+img_43.jpg,7.30 AM,56,55,450,Very Crowded,Breakfast,8
+img_45.jpg,7.45 AM,68,70,465,Very Crowded,Breakfast,8
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,8
+img_49.jpg,8.00 AM,44,46,480,Crowded,Breakfast,8
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,8
+img_54.jpg,8.18 AM,61,60,498,Very Crowded,Breakfast,8
+img_55.jpg,8.20 AM,73,70,500,Very Crowded,Breakfast,8
+img_56.jpg,8.30 AM,90,90,510,Very Crowded,Breakfast,8
+img_58.jpg,8.40 AM,101,100,520,Very Crowded,Breakfast,8
+img_60.jpg,9.10 AM,38,35,550,Crowded,Closed/Empty Time,8
+img_62.jpg,9.15 AM,84,85,555,Very Crowded,Closed/Empty Time,8
+img_7.jpg,10.00 AM,1,0,600,Empty,Closed/Empty Time,8
+img_8.jpg,10.16 AM,1,0,616,Empty,Closed/Empty Time,8
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,8
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,8
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,8
+img_13.jpg,11.20 AM,1,0,680,Empty,Closed/Empty Time,8
+img_14.jpg,11.30 AM,1,0,690,Empty,Closed/Empty Time,8
+img_15.jpg,11.40 AM,1,0,700,Empty,Closed/Empty Time,8
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,8
+img_17.jpg,12.05 PM,20,20,725,Moderate,Lunch,8
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,8
+img_19.jpg,12.15 PM,13,15,735,Moderate,Lunch,8
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,8
+img_21.jpg,12.30 PM,28,25,750,Moderate,Lunch,8
+img_22.jpg,12.40 PM,58,60,760,Very Crowded,Lunch,8
+img_23.jpg,12.50 PM,22,23,770,Moderate,Lunch,8
+img_1.jpg,1.10 PM,68,70,790,Very Crowded,Lunch,8
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,8
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,8
+img_4.jpg,1.35 PM,87,90,815,Very Crowded,Lunch,8
+img_5.jpg,1.45 PM,97,100,825,Very Crowded,Lunch,8
+img_6.jpg,1.55 PM,99,100,835,Very Crowded,Lunch,8
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,8
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,8
+img_26.jpg,2.20 PM,13,14,860,Moderate,Closed/Empty Time,8
+img_27.jpg,3.15 PM,3,0,915,Empty,Closed/Empty Time,8
+img_28.jpg,4.20 PM,2,0,980,Empty,Closed/Empty Time,8
+img_29.jpg,6.15 PM,1,0,1095,Empty,Closed/Empty Time,8
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,8
+img_32.jpg,6.28 PM,3,0,1108,Empty,Closed/Empty Time,8
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,8
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,8
+img_38.jpg,7.10 PM,5,2,1150,Less Crowded,Dinner,8
+img_40.jpg,7.15 PM,20,20,1155,Moderate,Dinner,8
+img_42.jpg,7.20 PM,22,22,1160,Moderate,Dinner,8
+img_44.jpg,7.30 PM,68,65,1170,Very Crowded,Dinner,8
+img_46.jpg,7.45 PM,42,45,1185,Crowded,Dinner,8
+img_48.jpg,7.55 PM,31,30,1195,Crowded,Dinner,8
+img_50.jpg,8.00 PM,82,80,1200,Very Crowded,Dinner,8
+img_51.jpg,8.10 PM,87,90,1210,Very Crowded,Dinner,8
+img_53.jpg,8.15 PM,49,47,1215,Crowded,Dinner,8
+img_57.jpg,8.30 PM,61,58,1230,Very Crowded,Dinner,8
+img_59.jpg,8.50 PM,62,60,1250,Very Crowded,Dinner,8
+img_61.jpg,9.10 PM,6,5,1270,Less Crowded,Closed/Empty Time,8
+img_63.jpg,9.15 PM,64,65,1275,Very Crowded,Closed/Empty Time,8
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,8
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,9
+img_33.jpg,6.40 AM,3,0,400,Empty,Closed/Empty Time,9
+img_35.jpg,7.05 AM,12,9,425,Less Crowded,Breakfast,9
+img_37.jpg,7.10 AM,16,14,430,Moderate,Breakfast,9
+img_39.jpg,7.15 AM,8,6,435,Less Crowded,Breakfast,9
+img_41.jpg,7.20 AM,17,20,440,Moderate,Breakfast,9
+img_43.jpg,7.30 AM,55,55,450,Very Crowded,Breakfast,9
+img_45.jpg,7.45 AM,71,70,465,Very Crowded,Breakfast,9
+img_47.jpg,7.55 AM,24,23,475,Moderate,Breakfast,9
+img_49.jpg,8.00 AM,44,46,480,Crowded,Breakfast,9
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,9
+img_54.jpg,8.18 AM,59,60,498,Very Crowded,Breakfast,9
+img_55.jpg,8.20 AM,70,70,500,Very Crowded,Breakfast,9
+img_56.jpg,8.30 AM,92,90,510,Very Crowded,Breakfast,9
+img_58.jpg,8.40 AM,101,100,520,Very Crowded,Breakfast,9
+img_60.jpg,9.10 AM,32,35,550,Crowded,Closed/Empty Time,9
+img_62.jpg,9.15 AM,87,85,555,Very Crowded,Closed/Empty Time,9
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,9
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,9
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,9
+img_11.jpg,10.45 AM,3,0,645,Empty,Closed/Empty Time,9
+img_12.jpg,11.00 AM,2,0,660,Empty,Closed/Empty Time,9
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,9
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,9
+img_15.jpg,11.40 AM,1,0,700,Empty,Closed/Empty Time,9
+img_16.jpg,12.00 PM,19,21,720,Moderate,Lunch,9
+img_17.jpg,12.05 PM,20,20,725,Moderate,Lunch,9
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,9
+img_19.jpg,12.15 PM,12,15,735,Moderate,Lunch,9
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,9
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,9
+img_22.jpg,12.40 PM,60,60,760,Very Crowded,Lunch,9
+img_23.jpg,12.50 PM,22,23,770,Moderate,Lunch,9
+img_1.jpg,1.10 PM,69,70,790,Very Crowded,Lunch,9
+img_2.jpg,1.20 PM,82,85,800,Very Crowded,Lunch,9
+img_3.jpg,1.26 PM,79,80,806,Very Crowded,Lunch,9
+img_4.jpg,1.35 PM,93,90,815,Very Crowded,Lunch,9
+img_5.jpg,1.45 PM,103,100,825,Very Crowded,Lunch,9
+img_6.jpg,1.55 PM,97,100,835,Very Crowded,Lunch,9
+img_24.jpg,2.00 PM,99,100,840,Very Crowded,Lunch,9
+img_25.jpg,2.05 PM,19,18,845,Moderate,Closed/Empty Time,9
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,9
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,9
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,9
+img_29.jpg,6.15 PM,1,0,1095,Empty,Closed/Empty Time,9
+img_31.jpg,6.20 PM,1,0,1100,Empty,Closed/Empty Time,9
+img_32.jpg,6.28 PM,3,0,1108,Empty,Closed/Empty Time,9
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,9
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,9
+img_38.jpg,7.10 PM,3,2,1150,Less Crowded,Dinner,9
+img_40.jpg,7.15 PM,21,20,1155,Moderate,Dinner,9
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,9
+img_44.jpg,7.30 PM,68,65,1170,Very Crowded,Dinner,9
+img_46.jpg,7.45 PM,48,45,1185,Crowded,Dinner,9
+img_48.jpg,7.55 PM,32,30,1195,Crowded,Dinner,9
+img_50.jpg,8.00 PM,81,80,1200,Very Crowded,Dinner,9
+img_51.jpg,8.10 PM,88,90,1210,Very Crowded,Dinner,9
+img_53.jpg,8.15 PM,45,47,1215,Crowded,Dinner,9
+img_57.jpg,8.30 PM,57,58,1230,Very Crowded,Dinner,9
+img_59.jpg,8.50 PM,57,60,1250,Very Crowded,Dinner,9
+img_61.jpg,9.10 PM,4,5,1270,Less Crowded,Closed/Empty Time,9
+img_63.jpg,9.15 PM,66,65,1275,Very Crowded,Closed/Empty Time,9
+img_10.jpg,10.30 PM,1,0,1350,Empty,Closed/Empty Time,9
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,10
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,10
+img_35.jpg,7.05 AM,8,9,425,Less Crowded,Breakfast,10
+img_37.jpg,7.10 AM,15,14,430,Moderate,Breakfast,10
+img_39.jpg,7.15 AM,4,6,435,Less Crowded,Breakfast,10
+img_41.jpg,7.20 AM,22,20,440,Moderate,Breakfast,10
+img_43.jpg,7.30 AM,52,55,450,Very Crowded,Breakfast,10
+img_45.jpg,7.45 AM,67,70,465,Very Crowded,Breakfast,10
+img_47.jpg,7.55 AM,26,23,475,Moderate,Breakfast,10
+img_49.jpg,8.00 AM,47,46,480,Crowded,Breakfast,10
+img_52.jpg,8.15 AM,47,47,495,Crowded,Breakfast,10
+img_54.jpg,8.18 AM,60,60,498,Very Crowded,Breakfast,10
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,10
+img_56.jpg,8.30 AM,90,90,510,Very Crowded,Breakfast,10
+img_58.jpg,8.40 AM,98,100,520,Very Crowded,Breakfast,10
+img_60.jpg,9.10 AM,35,35,550,Crowded,Closed/Empty Time,10
+img_62.jpg,9.15 AM,83,85,555,Very Crowded,Closed/Empty Time,10
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,10
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,10
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,10
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,10
+img_12.jpg,11.00 AM,1,0,660,Empty,Closed/Empty Time,10
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,10
+img_14.jpg,11.30 AM,2,0,690,Empty,Closed/Empty Time,10
+img_15.jpg,11.40 AM,1,0,700,Empty,Closed/Empty Time,10
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,10
+img_17.jpg,12.05 PM,21,20,725,Moderate,Lunch,10
+img_18.jpg,12.10 PM,7,8,730,Less Crowded,Lunch,10
+img_19.jpg,12.15 PM,18,15,735,Moderate,Lunch,10
+img_20.jpg,12.20 PM,9,7,740,Less Crowded,Lunch,10
+img_21.jpg,12.30 PM,27,25,750,Moderate,Lunch,10
+img_22.jpg,12.40 PM,61,60,760,Very Crowded,Lunch,10
+img_23.jpg,12.50 PM,23,23,770,Moderate,Lunch,10
+img_1.jpg,1.10 PM,67,70,790,Very Crowded,Lunch,10
+img_2.jpg,1.20 PM,83,85,800,Very Crowded,Lunch,10
+img_3.jpg,1.26 PM,80,80,806,Very Crowded,Lunch,10
+img_4.jpg,1.35 PM,92,90,815,Very Crowded,Lunch,10
+img_5.jpg,1.45 PM,99,100,825,Very Crowded,Lunch,10
+img_6.jpg,1.55 PM,98,100,835,Very Crowded,Lunch,10
+img_24.jpg,2.00 PM,100,100,840,Very Crowded,Lunch,10
+img_25.jpg,2.05 PM,15,18,845,Moderate,Closed/Empty Time,10
+img_26.jpg,2.20 PM,11,14,860,Moderate,Closed/Empty Time,10
+img_27.jpg,3.15 PM,1,0,915,Empty,Closed/Empty Time,10
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,10
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,10
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,10
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,10
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,10
+img_36.jpg,7.05 PM,13,11,1145,Moderate,Dinner,10
+img_38.jpg,7.10 PM,4,2,1150,Less Crowded,Dinner,10
+img_40.jpg,7.15 PM,23,20,1155,Moderate,Dinner,10
+img_42.jpg,7.20 PM,19,22,1160,Moderate,Dinner,10
+img_44.jpg,7.30 PM,66,65,1170,Very Crowded,Dinner,10
+img_46.jpg,7.45 PM,46,45,1185,Crowded,Dinner,10
+img_48.jpg,7.55 PM,32,30,1195,Crowded,Dinner,10
+img_50.jpg,8.00 PM,78,80,1200,Very Crowded,Dinner,10
+img_51.jpg,8.10 PM,91,90,1210,Very Crowded,Dinner,10
+img_53.jpg,8.15 PM,46,47,1215,Crowded,Dinner,10
+img_57.jpg,8.30 PM,59,58,1230,Very Crowded,Dinner,10
+img_59.jpg,8.50 PM,62,60,1250,Very Crowded,Dinner,10
+img_61.jpg,9.10 PM,6,5,1270,Less Crowded,Closed/Empty Time,10
+img_63.jpg,9.15 PM,63,65,1275,Very Crowded,Closed/Empty Time,10
+img_10.jpg,10.30 PM,2,0,1350,Empty,Closed/Empty Time,10
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,11
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,11
+img_35.jpg,7.05 AM,7,9,425,Less Crowded,Breakfast,11
+img_37.jpg,7.10 AM,16,14,430,Moderate,Breakfast,11
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,11
+img_41.jpg,7.20 AM,19,20,440,Moderate,Breakfast,11
+img_43.jpg,7.30 AM,56,55,450,Very Crowded,Breakfast,11
+img_45.jpg,7.45 AM,73,70,465,Very Crowded,Breakfast,11
+img_47.jpg,7.55 AM,23,23,475,Moderate,Breakfast,11
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,11
+img_52.jpg,8.15 AM,46,47,495,Crowded,Breakfast,11
+img_54.jpg,8.18 AM,61,60,498,Very Crowded,Breakfast,11
+img_55.jpg,8.20 AM,71,70,500,Very Crowded,Breakfast,11
+img_56.jpg,8.30 AM,90,90,510,Very Crowded,Breakfast,11
+img_58.jpg,8.40 AM,102,100,520,Very Crowded,Breakfast,11
+img_60.jpg,9.10 AM,38,35,550,Crowded,Closed/Empty Time,11
+img_62.jpg,9.15 AM,85,85,555,Very Crowded,Closed/Empty Time,11
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,11
+img_8.jpg,10.16 AM,3,0,616,Empty,Closed/Empty Time,11
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,11
+img_11.jpg,10.45 AM,3,0,645,Empty,Closed/Empty Time,11
+img_12.jpg,11.00 AM,3,0,660,Empty,Closed/Empty Time,11
+img_13.jpg,11.20 AM,2,0,680,Empty,Closed/Empty Time,11
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,11
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,11
+img_16.jpg,12.00 PM,18,21,720,Moderate,Lunch,11
+img_17.jpg,12.05 PM,19,20,725,Moderate,Lunch,11
+img_18.jpg,12.10 PM,7,8,730,Less Crowded,Lunch,11
+img_19.jpg,12.15 PM,16,15,735,Moderate,Lunch,11
+img_20.jpg,12.20 PM,6,7,740,Less Crowded,Lunch,11
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,11
+img_22.jpg,12.40 PM,60,60,760,Very Crowded,Lunch,11
+img_23.jpg,12.50 PM,23,23,770,Moderate,Lunch,11
+img_1.jpg,1.10 PM,70,70,790,Very Crowded,Lunch,11
+img_2.jpg,1.20 PM,85,85,800,Very Crowded,Lunch,11
+img_3.jpg,1.26 PM,77,80,806,Very Crowded,Lunch,11
+img_4.jpg,1.35 PM,88,90,815,Very Crowded,Lunch,11
+img_5.jpg,1.45 PM,101,100,825,Very Crowded,Lunch,11
+img_6.jpg,1.55 PM,100,100,835,Very Crowded,Lunch,11
+img_24.jpg,2.00 PM,97,100,840,Very Crowded,Lunch,11
+img_25.jpg,2.05 PM,21,18,845,Moderate,Closed/Empty Time,11
+img_26.jpg,2.20 PM,15,14,860,Moderate,Closed/Empty Time,11
+img_27.jpg,3.15 PM,2,0,915,Empty,Closed/Empty Time,11
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,11
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,11
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,11
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,11
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,11
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,11
+img_38.jpg,7.10 PM,3,2,1150,Less Crowded,Dinner,11
+img_40.jpg,7.15 PM,22,20,1155,Moderate,Dinner,11
+img_42.jpg,7.20 PM,21,22,1160,Moderate,Dinner,11
+img_44.jpg,7.30 PM,62,65,1170,Very Crowded,Dinner,11
+img_46.jpg,7.45 PM,42,45,1185,Crowded,Dinner,11
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,11
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,11
+img_51.jpg,8.10 PM,87,90,1210,Very Crowded,Dinner,11
+img_53.jpg,8.15 PM,48,47,1215,Crowded,Dinner,11
+img_57.jpg,8.30 PM,57,58,1230,Very Crowded,Dinner,11
+img_59.jpg,8.50 PM,59,60,1250,Very Crowded,Dinner,11
+img_61.jpg,9.10 PM,7,5,1270,Less Crowded,Closed/Empty Time,11
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,11
+img_10.jpg,10.30 PM,1,0,1350,Empty,Closed/Empty Time,11
+img_30.jpg,6.20 AM,3,0,380,Empty,Closed/Empty Time,12
+img_33.jpg,6.40 AM,2,0,400,Empty,Closed/Empty Time,12
+img_35.jpg,7.05 AM,9,9,425,Less Crowded,Breakfast,12
+img_37.jpg,7.10 AM,16,14,430,Moderate,Breakfast,12
+img_39.jpg,7.15 AM,4,6,435,Less Crowded,Breakfast,12
+img_41.jpg,7.20 AM,20,20,440,Moderate,Breakfast,12
+img_43.jpg,7.30 AM,58,55,450,Very Crowded,Breakfast,12
+img_45.jpg,7.45 AM,69,70,465,Very Crowded,Breakfast,12
+img_47.jpg,7.55 AM,21,23,475,Moderate,Breakfast,12
+img_49.jpg,8.00 AM,49,46,480,Crowded,Breakfast,12
+img_52.jpg,8.15 AM,44,47,495,Crowded,Breakfast,12
+img_54.jpg,8.18 AM,63,60,498,Very Crowded,Breakfast,12
+img_55.jpg,8.20 AM,69,70,500,Very Crowded,Breakfast,12
+img_56.jpg,8.30 AM,92,90,510,Very Crowded,Breakfast,12
+img_58.jpg,8.40 AM,98,100,520,Very Crowded,Breakfast,12
+img_60.jpg,9.10 AM,32,35,550,Crowded,Closed/Empty Time,12
+img_62.jpg,9.15 AM,83,85,555,Very Crowded,Closed/Empty Time,12
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,12
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,12
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,12
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,12
+img_12.jpg,11.00 AM,2,0,660,Empty,Closed/Empty Time,12
+img_13.jpg,11.20 AM,3,0,680,Empty,Closed/Empty Time,12
+img_14.jpg,11.30 AM,3,0,690,Empty,Closed/Empty Time,12
+img_15.jpg,11.40 AM,1,0,700,Empty,Closed/Empty Time,12
+img_16.jpg,12.00 PM,21,21,720,Moderate,Lunch,12
+img_17.jpg,12.05 PM,20,20,725,Moderate,Lunch,12
+img_18.jpg,12.10 PM,9,8,730,Less Crowded,Lunch,12
+img_19.jpg,12.15 PM,18,15,735,Moderate,Lunch,12
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,12
+img_21.jpg,12.30 PM,26,25,750,Moderate,Lunch,12
+img_22.jpg,12.40 PM,59,60,760,Very Crowded,Lunch,12
+img_23.jpg,12.50 PM,20,23,770,Moderate,Lunch,12
+img_1.jpg,1.10 PM,68,70,790,Very Crowded,Lunch,12
+img_2.jpg,1.20 PM,88,85,800,Very Crowded,Lunch,12
+img_3.jpg,1.26 PM,77,80,806,Very Crowded,Lunch,12
+img_4.jpg,1.35 PM,88,90,815,Very Crowded,Lunch,12
+img_5.jpg,1.45 PM,97,100,825,Very Crowded,Lunch,12
+img_6.jpg,1.55 PM,100,100,835,Very Crowded,Lunch,12
+img_24.jpg,2.00 PM,102,100,840,Very Crowded,Lunch,12
+img_25.jpg,2.05 PM,15,18,845,Moderate,Closed/Empty Time,12
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,12
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,12
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,12
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,12
+img_31.jpg,6.20 PM,2,0,1100,Empty,Closed/Empty Time,12
+img_32.jpg,6.28 PM,3,0,1108,Empty,Closed/Empty Time,12
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,12
+img_36.jpg,7.05 PM,8,11,1145,Moderate,Dinner,12
+img_38.jpg,7.10 PM,0,2,1150,Less Crowded,Dinner,12
+img_40.jpg,7.15 PM,21,20,1155,Moderate,Dinner,12
+img_42.jpg,7.20 PM,19,22,1160,Moderate,Dinner,12
+img_44.jpg,7.30 PM,65,65,1170,Very Crowded,Dinner,12
+img_46.jpg,7.45 PM,47,45,1185,Crowded,Dinner,12
+img_48.jpg,7.55 PM,28,30,1195,Crowded,Dinner,12
+img_50.jpg,8.00 PM,81,80,1200,Very Crowded,Dinner,12
+img_51.jpg,8.10 PM,88,90,1210,Very Crowded,Dinner,12
+img_53.jpg,8.15 PM,46,47,1215,Crowded,Dinner,12
+img_57.jpg,8.30 PM,56,58,1230,Very Crowded,Dinner,12
+img_59.jpg,8.50 PM,63,60,1250,Very Crowded,Dinner,12
+img_61.jpg,9.10 PM,2,5,1270,Less Crowded,Closed/Empty Time,12
+img_63.jpg,9.15 PM,68,65,1275,Very Crowded,Closed/Empty Time,12
+img_10.jpg,10.30 PM,3,0,1350,Empty,Closed/Empty Time,12
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,13
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,13
+img_35.jpg,7.05 AM,6,9,425,Less Crowded,Breakfast,13
+img_37.jpg,7.10 AM,12,14,430,Moderate,Breakfast,13
+img_39.jpg,7.15 AM,4,6,435,Less Crowded,Breakfast,13
+img_41.jpg,7.20 AM,19,20,440,Moderate,Breakfast,13
+img_43.jpg,7.30 AM,58,55,450,Very Crowded,Breakfast,13
+img_45.jpg,7.45 AM,70,70,465,Very Crowded,Breakfast,13
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,13
+img_49.jpg,8.00 AM,48,46,480,Crowded,Breakfast,13
+img_52.jpg,8.15 AM,44,47,495,Crowded,Breakfast,13
+img_54.jpg,8.18 AM,60,60,498,Very Crowded,Breakfast,13
+img_55.jpg,8.20 AM,67,70,500,Very Crowded,Breakfast,13
+img_56.jpg,8.30 AM,90,90,510,Very Crowded,Breakfast,13
+img_58.jpg,8.40 AM,97,100,520,Very Crowded,Breakfast,13
+img_60.jpg,9.10 AM,33,35,550,Crowded,Closed/Empty Time,13
+img_62.jpg,9.15 AM,86,85,555,Very Crowded,Closed/Empty Time,13
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,13
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,13
+img_9.jpg,10.30 AM,2,0,630,Empty,Closed/Empty Time,13
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,13
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,13
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,13
+img_14.jpg,11.30 AM,3,0,690,Empty,Closed/Empty Time,13
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,13
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,13
+img_17.jpg,12.05 PM,17,20,725,Moderate,Lunch,13
+img_18.jpg,12.10 PM,6,8,730,Less Crowded,Lunch,13
+img_19.jpg,12.15 PM,15,15,735,Moderate,Lunch,13
+img_20.jpg,12.20 PM,10,7,740,Less Crowded,Lunch,13
+img_21.jpg,12.30 PM,25,25,750,Moderate,Lunch,13
+img_22.jpg,12.40 PM,57,60,760,Very Crowded,Lunch,13
+img_23.jpg,12.50 PM,20,23,770,Moderate,Lunch,13
+img_1.jpg,1.10 PM,71,70,790,Very Crowded,Lunch,13
+img_2.jpg,1.20 PM,87,85,800,Very Crowded,Lunch,13
+img_3.jpg,1.26 PM,81,80,806,Very Crowded,Lunch,13
+img_4.jpg,1.35 PM,90,90,815,Very Crowded,Lunch,13
+img_5.jpg,1.45 PM,100,100,825,Very Crowded,Lunch,13
+img_6.jpg,1.55 PM,97,100,835,Very Crowded,Lunch,13
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,13
+img_25.jpg,2.05 PM,21,18,845,Moderate,Closed/Empty Time,13
+img_26.jpg,2.20 PM,15,14,860,Moderate,Closed/Empty Time,13
+img_27.jpg,3.15 PM,3,0,915,Empty,Closed/Empty Time,13
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,13
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,13
+img_31.jpg,6.20 PM,1,0,1100,Empty,Closed/Empty Time,13
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,13
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,13
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,13
+img_38.jpg,7.10 PM,5,2,1150,Less Crowded,Dinner,13
+img_40.jpg,7.15 PM,20,20,1155,Moderate,Dinner,13
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,13
+img_44.jpg,7.30 PM,65,65,1170,Very Crowded,Dinner,13
+img_46.jpg,7.45 PM,44,45,1185,Crowded,Dinner,13
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,13
+img_50.jpg,8.00 PM,77,80,1200,Very Crowded,Dinner,13
+img_51.jpg,8.10 PM,92,90,1210,Very Crowded,Dinner,13
+img_53.jpg,8.15 PM,46,47,1215,Crowded,Dinner,13
+img_57.jpg,8.30 PM,55,58,1230,Very Crowded,Dinner,13
+img_59.jpg,8.50 PM,58,60,1250,Very Crowded,Dinner,13
+img_61.jpg,9.10 PM,6,5,1270,Less Crowded,Closed/Empty Time,13
+img_63.jpg,9.15 PM,66,65,1275,Very Crowded,Closed/Empty Time,13
+img_10.jpg,10.30 PM,1,0,1350,Empty,Closed/Empty Time,13
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,14
+img_33.jpg,6.40 AM,2,0,400,Empty,Closed/Empty Time,14
+img_35.jpg,7.05 AM,10,9,425,Less Crowded,Breakfast,14
+img_37.jpg,7.10 AM,14,14,430,Moderate,Breakfast,14
+img_39.jpg,7.15 AM,8,6,435,Less Crowded,Breakfast,14
+img_41.jpg,7.20 AM,22,20,440,Moderate,Breakfast,14
+img_43.jpg,7.30 AM,57,55,450,Very Crowded,Breakfast,14
+img_45.jpg,7.45 AM,71,70,465,Very Crowded,Breakfast,14
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,14
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,14
+img_52.jpg,8.15 AM,48,47,495,Crowded,Breakfast,14
+img_54.jpg,8.18 AM,59,60,498,Very Crowded,Breakfast,14
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,14
+img_56.jpg,8.30 AM,91,90,510,Very Crowded,Breakfast,14
+img_58.jpg,8.40 AM,99,100,520,Very Crowded,Breakfast,14
+img_60.jpg,9.10 AM,36,35,550,Crowded,Closed/Empty Time,14
+img_62.jpg,9.15 AM,84,85,555,Very Crowded,Closed/Empty Time,14
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,14
+img_8.jpg,10.16 AM,2,0,616,Empty,Closed/Empty Time,14
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,14
+img_11.jpg,10.45 AM,1,0,645,Empty,Closed/Empty Time,14
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,14
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,14
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,14
+img_15.jpg,11.40 AM,1,0,700,Empty,Closed/Empty Time,14
+img_16.jpg,12.00 PM,18,21,720,Moderate,Lunch,14
+img_17.jpg,12.05 PM,22,20,725,Moderate,Lunch,14
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,14
+img_19.jpg,12.15 PM,13,15,735,Moderate,Lunch,14
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,14
+img_21.jpg,12.30 PM,25,25,750,Moderate,Lunch,14
+img_22.jpg,12.40 PM,59,60,760,Very Crowded,Lunch,14
+img_23.jpg,12.50 PM,23,23,770,Moderate,Lunch,14
+img_1.jpg,1.10 PM,70,70,790,Very Crowded,Lunch,14
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,14
+img_3.jpg,1.26 PM,83,80,806,Very Crowded,Lunch,14
+img_4.jpg,1.35 PM,89,90,815,Very Crowded,Lunch,14
+img_5.jpg,1.45 PM,102,100,825,Very Crowded,Lunch,14
+img_6.jpg,1.55 PM,97,100,835,Very Crowded,Lunch,14
+img_24.jpg,2.00 PM,97,100,840,Very Crowded,Lunch,14
+img_25.jpg,2.05 PM,21,18,845,Moderate,Closed/Empty Time,14
+img_26.jpg,2.20 PM,13,14,860,Moderate,Closed/Empty Time,14
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,14
+img_28.jpg,4.20 PM,3,0,980,Empty,Closed/Empty Time,14
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,14
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,14
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,14
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,14
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,14
+img_38.jpg,7.10 PM,4,2,1150,Less Crowded,Dinner,14
+img_40.jpg,7.15 PM,19,20,1155,Moderate,Dinner,14
+img_42.jpg,7.20 PM,21,22,1160,Moderate,Dinner,14
+img_44.jpg,7.30 PM,65,65,1170,Very Crowded,Dinner,14
+img_46.jpg,7.45 PM,47,45,1185,Crowded,Dinner,14
+img_48.jpg,7.55 PM,32,30,1195,Crowded,Dinner,14
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,14
+img_51.jpg,8.10 PM,92,90,1210,Very Crowded,Dinner,14
+img_53.jpg,8.15 PM,44,47,1215,Crowded,Dinner,14
+img_57.jpg,8.30 PM,55,58,1230,Very Crowded,Dinner,14
+img_59.jpg,8.50 PM,58,60,1250,Very Crowded,Dinner,14
+img_61.jpg,9.10 PM,7,5,1270,Less Crowded,Closed/Empty Time,14
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,14
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,14
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,15
+img_33.jpg,6.40 AM,3,0,400,Empty,Closed/Empty Time,15
+img_35.jpg,7.05 AM,9,9,425,Less Crowded,Breakfast,15
+img_37.jpg,7.10 AM,14,14,430,Moderate,Breakfast,15
+img_39.jpg,7.15 AM,7,6,435,Less Crowded,Breakfast,15
+img_41.jpg,7.20 AM,17,20,440,Moderate,Breakfast,15
+img_43.jpg,7.30 AM,54,55,450,Very Crowded,Breakfast,15
+img_45.jpg,7.45 AM,70,70,465,Very Crowded,Breakfast,15
+img_47.jpg,7.55 AM,23,23,475,Moderate,Breakfast,15
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,15
+img_52.jpg,8.15 AM,46,47,495,Crowded,Breakfast,15
+img_54.jpg,8.18 AM,58,60,498,Very Crowded,Breakfast,15
+img_55.jpg,8.20 AM,70,70,500,Very Crowded,Breakfast,15
+img_56.jpg,8.30 AM,89,90,510,Very Crowded,Breakfast,15
+img_58.jpg,8.40 AM,101,100,520,Very Crowded,Breakfast,15
+img_60.jpg,9.10 AM,35,35,550,Crowded,Closed/Empty Time,15
+img_62.jpg,9.15 AM,86,85,555,Very Crowded,Closed/Empty Time,15
+img_7.jpg,10.00 AM,1,0,600,Empty,Closed/Empty Time,15
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,15
+img_9.jpg,10.30 AM,1,0,630,Empty,Closed/Empty Time,15
+img_11.jpg,10.45 AM,3,0,645,Empty,Closed/Empty Time,15
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,15
+img_13.jpg,11.20 AM,3,0,680,Empty,Closed/Empty Time,15
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,15
+img_15.jpg,11.40 AM,2,0,700,Empty,Closed/Empty Time,15
+img_16.jpg,12.00 PM,21,21,720,Moderate,Lunch,15
+img_17.jpg,12.05 PM,21,20,725,Moderate,Lunch,15
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,15
+img_19.jpg,12.15 PM,13,15,735,Moderate,Lunch,15
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,15
+img_21.jpg,12.30 PM,26,25,750,Moderate,Lunch,15
+img_22.jpg,12.40 PM,61,60,760,Very Crowded,Lunch,15
+img_23.jpg,12.50 PM,20,23,770,Moderate,Lunch,15
+img_1.jpg,1.10 PM,73,70,790,Very Crowded,Lunch,15
+img_2.jpg,1.20 PM,88,85,800,Very Crowded,Lunch,15
+img_3.jpg,1.26 PM,79,80,806,Very Crowded,Lunch,15
+img_4.jpg,1.35 PM,93,90,815,Very Crowded,Lunch,15
+img_5.jpg,1.45 PM,100,100,825,Very Crowded,Lunch,15
+img_6.jpg,1.55 PM,98,100,835,Very Crowded,Lunch,15
+img_24.jpg,2.00 PM,97,100,840,Very Crowded,Lunch,15
+img_25.jpg,2.05 PM,21,18,845,Moderate,Closed/Empty Time,15
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,15
+img_27.jpg,3.15 PM,2,0,915,Empty,Closed/Empty Time,15
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,15
+img_29.jpg,6.15 PM,1,0,1095,Empty,Closed/Empty Time,15
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,15
+img_32.jpg,6.28 PM,3,0,1108,Empty,Closed/Empty Time,15
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,15
+img_36.jpg,7.05 PM,9,11,1145,Moderate,Dinner,15
+img_38.jpg,7.10 PM,1,2,1150,Less Crowded,Dinner,15
+img_40.jpg,7.15 PM,19,20,1155,Moderate,Dinner,15
+img_42.jpg,7.20 PM,19,22,1160,Moderate,Dinner,15
+img_44.jpg,7.30 PM,62,65,1170,Very Crowded,Dinner,15
+img_46.jpg,7.45 PM,46,45,1185,Crowded,Dinner,15
+img_48.jpg,7.55 PM,30,30,1195,Crowded,Dinner,15
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,15
+img_51.jpg,8.10 PM,93,90,1210,Very Crowded,Dinner,15
+img_53.jpg,8.15 PM,48,47,1215,Crowded,Dinner,15
+img_57.jpg,8.30 PM,55,58,1230,Very Crowded,Dinner,15
+img_59.jpg,8.50 PM,60,60,1250,Very Crowded,Dinner,15
+img_61.jpg,9.10 PM,6,5,1270,Less Crowded,Closed/Empty Time,15
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,15
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,15
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,16
+img_33.jpg,6.40 AM,2,0,400,Empty,Closed/Empty Time,16
+img_35.jpg,7.05 AM,12,9,425,Less Crowded,Breakfast,16
+img_37.jpg,7.10 AM,12,14,430,Moderate,Breakfast,16
+img_39.jpg,7.15 AM,7,6,435,Less Crowded,Breakfast,16
+img_41.jpg,7.20 AM,23,20,440,Moderate,Breakfast,16
+img_43.jpg,7.30 AM,55,55,450,Very Crowded,Breakfast,16
+img_45.jpg,7.45 AM,73,70,465,Very Crowded,Breakfast,16
+img_47.jpg,7.55 AM,26,23,475,Moderate,Breakfast,16
+img_49.jpg,8.00 AM,43,46,480,Crowded,Breakfast,16
+img_52.jpg,8.15 AM,47,47,495,Crowded,Breakfast,16
+img_54.jpg,8.18 AM,61,60,498,Very Crowded,Breakfast,16
+img_55.jpg,8.20 AM,68,70,500,Very Crowded,Breakfast,16
+img_56.jpg,8.30 AM,87,90,510,Very Crowded,Breakfast,16
+img_58.jpg,8.40 AM,97,100,520,Very Crowded,Breakfast,16
+img_60.jpg,9.10 AM,33,35,550,Crowded,Closed/Empty Time,16
+img_62.jpg,9.15 AM,83,85,555,Very Crowded,Closed/Empty Time,16
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,16
+img_8.jpg,10.16 AM,2,0,616,Empty,Closed/Empty Time,16
+img_9.jpg,10.30 AM,2,0,630,Empty,Closed/Empty Time,16
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,16
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,16
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,16
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,16
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,16
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,16
+img_17.jpg,12.05 PM,19,20,725,Moderate,Lunch,16
+img_18.jpg,12.10 PM,8,8,730,Less Crowded,Lunch,16
+img_19.jpg,12.15 PM,15,15,735,Moderate,Lunch,16
+img_20.jpg,12.20 PM,7,7,740,Less Crowded,Lunch,16
+img_21.jpg,12.30 PM,28,25,750,Moderate,Lunch,16
+img_22.jpg,12.40 PM,59,60,760,Very Crowded,Lunch,16
+img_23.jpg,12.50 PM,22,23,770,Moderate,Lunch,16
+img_1.jpg,1.10 PM,73,70,790,Very Crowded,Lunch,16
+img_2.jpg,1.20 PM,87,85,800,Very Crowded,Lunch,16
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,16
+img_4.jpg,1.35 PM,89,90,815,Very Crowded,Lunch,16
+img_5.jpg,1.45 PM,97,100,825,Very Crowded,Lunch,16
+img_6.jpg,1.55 PM,101,100,835,Very Crowded,Lunch,16
+img_24.jpg,2.00 PM,101,100,840,Very Crowded,Lunch,16
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,16
+img_26.jpg,2.20 PM,15,14,860,Moderate,Closed/Empty Time,16
+img_27.jpg,3.15 PM,3,0,915,Empty,Closed/Empty Time,16
+img_28.jpg,4.20 PM,3,0,980,Empty,Closed/Empty Time,16
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,16
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,16
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,16
+img_34.jpg,6.41 PM,1,0,1121,Empty,Closed/Empty Time,16
+img_36.jpg,7.05 PM,13,11,1145,Moderate,Dinner,16
+img_38.jpg,7.10 PM,0,2,1150,Less Crowded,Dinner,16
+img_40.jpg,7.15 PM,21,20,1155,Moderate,Dinner,16
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,16
+img_44.jpg,7.30 PM,68,65,1170,Very Crowded,Dinner,16
+img_46.jpg,7.45 PM,43,45,1185,Crowded,Dinner,16
+img_48.jpg,7.55 PM,27,30,1195,Crowded,Dinner,16
+img_50.jpg,8.00 PM,78,80,1200,Very Crowded,Dinner,16
+img_51.jpg,8.10 PM,91,90,1210,Very Crowded,Dinner,16
+img_53.jpg,8.15 PM,44,47,1215,Crowded,Dinner,16
+img_57.jpg,8.30 PM,57,58,1230,Very Crowded,Dinner,16
+img_59.jpg,8.50 PM,63,60,1250,Very Crowded,Dinner,16
+img_61.jpg,9.10 PM,4,5,1270,Less Crowded,Closed/Empty Time,16
+img_63.jpg,9.15 PM,62,65,1275,Very Crowded,Closed/Empty Time,16
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,16
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,17
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,17
+img_35.jpg,7.05 AM,12,9,425,Less Crowded,Breakfast,17
+img_37.jpg,7.10 AM,14,14,430,Moderate,Breakfast,17
+img_39.jpg,7.15 AM,6,6,435,Less Crowded,Breakfast,17
+img_41.jpg,7.20 AM,22,20,440,Moderate,Breakfast,17
+img_43.jpg,7.30 AM,57,55,450,Very Crowded,Breakfast,17
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,17
+img_47.jpg,7.55 AM,21,23,475,Moderate,Breakfast,17
+img_49.jpg,8.00 AM,49,46,480,Crowded,Breakfast,17
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,17
+img_54.jpg,8.18 AM,63,60,498,Very Crowded,Breakfast,17
+img_55.jpg,8.20 AM,73,70,500,Very Crowded,Breakfast,17
+img_56.jpg,8.30 AM,92,90,510,Very Crowded,Breakfast,17
+img_58.jpg,8.40 AM,99,100,520,Very Crowded,Breakfast,17
+img_60.jpg,9.10 AM,33,35,550,Crowded,Closed/Empty Time,17
+img_62.jpg,9.15 AM,85,85,555,Very Crowded,Closed/Empty Time,17
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,17
+img_8.jpg,10.16 AM,2,0,616,Empty,Closed/Empty Time,17
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,17
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,17
+img_12.jpg,11.00 AM,3,0,660,Empty,Closed/Empty Time,17
+img_13.jpg,11.20 AM,3,0,680,Empty,Closed/Empty Time,17
+img_14.jpg,11.30 AM,2,0,690,Empty,Closed/Empty Time,17
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,17
+img_16.jpg,12.00 PM,22,21,720,Moderate,Lunch,17
+img_17.jpg,12.05 PM,19,20,725,Moderate,Lunch,17
+img_18.jpg,12.10 PM,8,8,730,Less Crowded,Lunch,17
+img_19.jpg,12.15 PM,15,15,735,Moderate,Lunch,17
+img_20.jpg,12.20 PM,9,7,740,Less Crowded,Lunch,17
+img_21.jpg,12.30 PM,26,25,750,Moderate,Lunch,17
+img_22.jpg,12.40 PM,57,60,760,Very Crowded,Lunch,17
+img_23.jpg,12.50 PM,26,23,770,Moderate,Lunch,17
+img_1.jpg,1.10 PM,72,70,790,Very Crowded,Lunch,17
+img_2.jpg,1.20 PM,83,85,800,Very Crowded,Lunch,17
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,17
+img_4.jpg,1.35 PM,92,90,815,Very Crowded,Lunch,17
+img_5.jpg,1.45 PM,103,100,825,Very Crowded,Lunch,17
+img_6.jpg,1.55 PM,101,100,835,Very Crowded,Lunch,17
+img_24.jpg,2.00 PM,97,100,840,Very Crowded,Lunch,17
+img_25.jpg,2.05 PM,20,18,845,Moderate,Closed/Empty Time,17
+img_26.jpg,2.20 PM,11,14,860,Moderate,Closed/Empty Time,17
+img_27.jpg,3.15 PM,2,0,915,Empty,Closed/Empty Time,17
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,17
+img_29.jpg,6.15 PM,2,0,1095,Empty,Closed/Empty Time,17
+img_31.jpg,6.20 PM,1,0,1100,Empty,Closed/Empty Time,17
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,17
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,17
+img_36.jpg,7.05 PM,9,11,1145,Moderate,Dinner,17
+img_38.jpg,7.10 PM,0,2,1150,Less Crowded,Dinner,17
+img_40.jpg,7.15 PM,19,20,1155,Moderate,Dinner,17
+img_42.jpg,7.20 PM,24,22,1160,Moderate,Dinner,17
+img_44.jpg,7.30 PM,65,65,1170,Very Crowded,Dinner,17
+img_46.jpg,7.45 PM,46,45,1185,Crowded,Dinner,17
+img_48.jpg,7.55 PM,33,30,1195,Crowded,Dinner,17
+img_50.jpg,8.00 PM,82,80,1200,Very Crowded,Dinner,17
+img_51.jpg,8.10 PM,91,90,1210,Very Crowded,Dinner,17
+img_53.jpg,8.15 PM,47,47,1215,Crowded,Dinner,17
+img_57.jpg,8.30 PM,61,58,1230,Very Crowded,Dinner,17
+img_59.jpg,8.50 PM,60,60,1250,Very Crowded,Dinner,17
+img_61.jpg,9.10 PM,6,5,1270,Less Crowded,Closed/Empty Time,17
+img_63.jpg,9.15 PM,67,65,1275,Very Crowded,Closed/Empty Time,17
+img_10.jpg,10.30 PM,1,0,1350,Empty,Closed/Empty Time,17
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,18
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,18
+img_35.jpg,7.05 AM,10,9,425,Less Crowded,Breakfast,18
+img_37.jpg,7.10 AM,11,14,430,Moderate,Breakfast,18
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,18
+img_41.jpg,7.20 AM,17,20,440,Moderate,Breakfast,18
+img_43.jpg,7.30 AM,57,55,450,Very Crowded,Breakfast,18
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,18
+img_47.jpg,7.55 AM,23,23,475,Moderate,Breakfast,18
+img_49.jpg,8.00 AM,43,46,480,Crowded,Breakfast,18
+img_52.jpg,8.15 AM,50,47,495,Crowded,Breakfast,18
+img_54.jpg,8.18 AM,63,60,498,Very Crowded,Breakfast,18
+img_55.jpg,8.20 AM,68,70,500,Very Crowded,Breakfast,18
+img_56.jpg,8.30 AM,90,90,510,Very Crowded,Breakfast,18
+img_58.jpg,8.40 AM,100,100,520,Very Crowded,Breakfast,18
+img_60.jpg,9.10 AM,36,35,550,Crowded,Closed/Empty Time,18
+img_62.jpg,9.15 AM,82,85,555,Very Crowded,Closed/Empty Time,18
+img_7.jpg,10.00 AM,2,0,600,Empty,Closed/Empty Time,18
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,18
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,18
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,18
+img_12.jpg,11.00 AM,1,0,660,Empty,Closed/Empty Time,18
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,18
+img_14.jpg,11.30 AM,3,0,690,Empty,Closed/Empty Time,18
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,18
+img_16.jpg,12.00 PM,23,21,720,Moderate,Lunch,18
+img_17.jpg,12.05 PM,18,20,725,Moderate,Lunch,18
+img_18.jpg,12.10 PM,7,8,730,Less Crowded,Lunch,18
+img_19.jpg,12.15 PM,14,15,735,Moderate,Lunch,18
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,18
+img_21.jpg,12.30 PM,24,25,750,Moderate,Lunch,18
+img_22.jpg,12.40 PM,57,60,760,Very Crowded,Lunch,18
+img_23.jpg,12.50 PM,24,23,770,Moderate,Lunch,18
+img_1.jpg,1.10 PM,69,70,790,Very Crowded,Lunch,18
+img_2.jpg,1.20 PM,87,85,800,Very Crowded,Lunch,18
+img_3.jpg,1.26 PM,78,80,806,Very Crowded,Lunch,18
+img_4.jpg,1.35 PM,92,90,815,Very Crowded,Lunch,18
+img_5.jpg,1.45 PM,98,100,825,Very Crowded,Lunch,18
+img_6.jpg,1.55 PM,101,100,835,Very Crowded,Lunch,18
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,18
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,18
+img_26.jpg,2.20 PM,13,14,860,Moderate,Closed/Empty Time,18
+img_27.jpg,3.15 PM,3,0,915,Empty,Closed/Empty Time,18
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,18
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,18
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,18
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,18
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,18
+img_36.jpg,7.05 PM,10,11,1145,Moderate,Dinner,18
+img_38.jpg,7.10 PM,0,2,1150,Less Crowded,Dinner,18
+img_40.jpg,7.15 PM,23,20,1155,Moderate,Dinner,18
+img_42.jpg,7.20 PM,19,22,1160,Moderate,Dinner,18
+img_44.jpg,7.30 PM,67,65,1170,Very Crowded,Dinner,18
+img_46.jpg,7.45 PM,48,45,1185,Crowded,Dinner,18
+img_48.jpg,7.55 PM,31,30,1195,Crowded,Dinner,18
+img_50.jpg,8.00 PM,78,80,1200,Very Crowded,Dinner,18
+img_51.jpg,8.10 PM,87,90,1210,Very Crowded,Dinner,18
+img_53.jpg,8.15 PM,46,47,1215,Crowded,Dinner,18
+img_57.jpg,8.30 PM,59,58,1230,Very Crowded,Dinner,18
+img_59.jpg,8.50 PM,62,60,1250,Very Crowded,Dinner,18
+img_61.jpg,9.10 PM,5,5,1270,Less Crowded,Closed/Empty Time,18
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,18
+img_10.jpg,10.30 PM,3,0,1350,Empty,Closed/Empty Time,18
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,19
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,19
+img_35.jpg,7.05 AM,6,9,425,Less Crowded,Breakfast,19
+img_37.jpg,7.10 AM,17,14,430,Moderate,Breakfast,19
+img_39.jpg,7.15 AM,5,6,435,Less Crowded,Breakfast,19
+img_41.jpg,7.20 AM,19,20,440,Moderate,Breakfast,19
+img_43.jpg,7.30 AM,57,55,450,Very Crowded,Breakfast,19
+img_45.jpg,7.45 AM,67,70,465,Very Crowded,Breakfast,19
+img_47.jpg,7.55 AM,26,23,475,Moderate,Breakfast,19
+img_49.jpg,8.00 AM,45,46,480,Crowded,Breakfast,19
+img_52.jpg,8.15 AM,44,47,495,Crowded,Breakfast,19
+img_54.jpg,8.18 AM,63,60,498,Very Crowded,Breakfast,19
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,19
+img_56.jpg,8.30 AM,90,90,510,Very Crowded,Breakfast,19
+img_58.jpg,8.40 AM,101,100,520,Very Crowded,Breakfast,19
+img_60.jpg,9.10 AM,36,35,550,Crowded,Closed/Empty Time,19
+img_62.jpg,9.15 AM,87,85,555,Very Crowded,Closed/Empty Time,19
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,19
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,19
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,19
+img_11.jpg,10.45 AM,1,0,645,Empty,Closed/Empty Time,19
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,19
+img_13.jpg,11.20 AM,2,0,680,Empty,Closed/Empty Time,19
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,19
+img_15.jpg,11.40 AM,3,0,700,Empty,Closed/Empty Time,19
+img_16.jpg,12.00 PM,19,21,720,Moderate,Lunch,19
+img_17.jpg,12.05 PM,20,20,725,Moderate,Lunch,19
+img_18.jpg,12.10 PM,7,8,730,Less Crowded,Lunch,19
+img_19.jpg,12.15 PM,14,15,735,Moderate,Lunch,19
+img_20.jpg,12.20 PM,8,7,740,Less Crowded,Lunch,19
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,19
+img_22.jpg,12.40 PM,59,60,760,Very Crowded,Lunch,19
+img_23.jpg,12.50 PM,21,23,770,Moderate,Lunch,19
+img_1.jpg,1.10 PM,71,70,790,Very Crowded,Lunch,19
+img_2.jpg,1.20 PM,88,85,800,Very Crowded,Lunch,19
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,19
+img_4.jpg,1.35 PM,87,90,815,Very Crowded,Lunch,19
+img_5.jpg,1.45 PM,103,100,825,Very Crowded,Lunch,19
+img_6.jpg,1.55 PM,98,100,835,Very Crowded,Lunch,19
+img_24.jpg,2.00 PM,99,100,840,Very Crowded,Lunch,19
+img_25.jpg,2.05 PM,16,18,845,Moderate,Closed/Empty Time,19
+img_26.jpg,2.20 PM,12,14,860,Moderate,Closed/Empty Time,19
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,19
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,19
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,19
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,19
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,19
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,19
+img_36.jpg,7.05 PM,9,11,1145,Moderate,Dinner,19
+img_38.jpg,7.10 PM,5,2,1150,Less Crowded,Dinner,19
+img_40.jpg,7.15 PM,18,20,1155,Moderate,Dinner,19
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,19
+img_44.jpg,7.30 PM,65,65,1170,Very Crowded,Dinner,19
+img_46.jpg,7.45 PM,44,45,1185,Crowded,Dinner,19
+img_48.jpg,7.55 PM,33,30,1195,Crowded,Dinner,19
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,19
+img_51.jpg,8.10 PM,92,90,1210,Very Crowded,Dinner,19
+img_53.jpg,8.15 PM,46,47,1215,Crowded,Dinner,19
+img_57.jpg,8.30 PM,55,58,1230,Very Crowded,Dinner,19
+img_59.jpg,8.50 PM,60,60,1250,Very Crowded,Dinner,19
+img_61.jpg,9.10 PM,2,5,1270,Less Crowded,Closed/Empty Time,19
+img_63.jpg,9.15 PM,62,65,1275,Very Crowded,Closed/Empty Time,19
+img_10.jpg,10.30 PM,3,0,1350,Empty,Closed/Empty Time,19
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,20
+img_33.jpg,6.40 AM,1,0,400,Empty,Closed/Empty Time,20
+img_35.jpg,7.05 AM,6,9,425,Less Crowded,Breakfast,20
+img_37.jpg,7.10 AM,12,14,430,Moderate,Breakfast,20
+img_39.jpg,7.15 AM,6,6,435,Less Crowded,Breakfast,20
+img_41.jpg,7.20 AM,20,20,440,Moderate,Breakfast,20
+img_43.jpg,7.30 AM,54,55,450,Very Crowded,Breakfast,20
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,20
+img_47.jpg,7.55 AM,24,23,475,Moderate,Breakfast,20
+img_49.jpg,8.00 AM,49,46,480,Crowded,Breakfast,20
+img_52.jpg,8.15 AM,47,47,495,Crowded,Breakfast,20
+img_54.jpg,8.18 AM,58,60,498,Very Crowded,Breakfast,20
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,20
+img_56.jpg,8.30 AM,88,90,510,Very Crowded,Breakfast,20
+img_58.jpg,8.40 AM,98,100,520,Very Crowded,Breakfast,20
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,20
+img_62.jpg,9.15 AM,83,85,555,Very Crowded,Closed/Empty Time,20
+img_7.jpg,10.00 AM,3,0,600,Empty,Closed/Empty Time,20
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,20
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,20
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,20
+img_12.jpg,11.00 AM,2,0,660,Empty,Closed/Empty Time,20
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,20
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,20
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,20
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,20
+img_17.jpg,12.05 PM,22,20,725,Moderate,Lunch,20
+img_18.jpg,12.10 PM,8,8,730,Less Crowded,Lunch,20
+img_19.jpg,12.15 PM,14,15,735,Moderate,Lunch,20
+img_20.jpg,12.20 PM,10,7,740,Less Crowded,Lunch,20
+img_21.jpg,12.30 PM,23,25,750,Moderate,Lunch,20
+img_22.jpg,12.40 PM,59,60,760,Very Crowded,Lunch,20
+img_23.jpg,12.50 PM,25,23,770,Moderate,Lunch,20
+img_1.jpg,1.10 PM,71,70,790,Very Crowded,Lunch,20
+img_2.jpg,1.20 PM,82,85,800,Very Crowded,Lunch,20
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,20
+img_4.jpg,1.35 PM,92,90,815,Very Crowded,Lunch,20
+img_5.jpg,1.45 PM,103,100,825,Very Crowded,Lunch,20
+img_6.jpg,1.55 PM,102,100,835,Very Crowded,Lunch,20
+img_24.jpg,2.00 PM,98,100,840,Very Crowded,Lunch,20
+img_25.jpg,2.05 PM,18,18,845,Moderate,Closed/Empty Time,20
+img_26.jpg,2.20 PM,12,14,860,Moderate,Closed/Empty Time,20
+img_27.jpg,3.15 PM,2,0,915,Empty,Closed/Empty Time,20
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,20
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,20
+img_31.jpg,6.20 PM,3,0,1100,Empty,Closed/Empty Time,20
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,20
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,20
+img_36.jpg,7.05 PM,9,11,1145,Moderate,Dinner,20
+img_38.jpg,7.10 PM,5,2,1150,Less Crowded,Dinner,20
+img_40.jpg,7.15 PM,22,20,1155,Moderate,Dinner,20
+img_42.jpg,7.20 PM,19,22,1160,Moderate,Dinner,20
+img_44.jpg,7.30 PM,64,65,1170,Very Crowded,Dinner,20
+img_46.jpg,7.45 PM,45,45,1185,Crowded,Dinner,20
+img_48.jpg,7.55 PM,30,30,1195,Crowded,Dinner,20
+img_50.jpg,8.00 PM,80,80,1200,Very Crowded,Dinner,20
+img_51.jpg,8.10 PM,87,90,1210,Very Crowded,Dinner,20
+img_53.jpg,8.15 PM,45,47,1215,Crowded,Dinner,20
+img_57.jpg,8.30 PM,61,58,1230,Very Crowded,Dinner,20
+img_59.jpg,8.50 PM,59,60,1250,Very Crowded,Dinner,20
+img_61.jpg,9.10 PM,2,5,1270,Less Crowded,Closed/Empty Time,20
+img_63.jpg,9.15 PM,63,65,1275,Very Crowded,Closed/Empty Time,20
+img_10.jpg,10.30 PM,2,0,1350,Empty,Closed/Empty Time,20
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,21
+img_33.jpg,6.40 AM,3,0,400,Empty,Closed/Empty Time,21
+img_35.jpg,7.05 AM,8,9,425,Less Crowded,Breakfast,21
+img_37.jpg,7.10 AM,14,14,430,Moderate,Breakfast,21
+img_39.jpg,7.15 AM,9,6,435,Less Crowded,Breakfast,21
+img_41.jpg,7.20 AM,20,20,440,Moderate,Breakfast,21
+img_43.jpg,7.30 AM,55,55,450,Very Crowded,Breakfast,21
+img_45.jpg,7.45 AM,67,70,465,Very Crowded,Breakfast,21
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,21
+img_49.jpg,8.00 AM,43,46,480,Crowded,Breakfast,21
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,21
+img_54.jpg,8.18 AM,60,60,498,Very Crowded,Breakfast,21
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,21
+img_56.jpg,8.30 AM,88,90,510,Very Crowded,Breakfast,21
+img_58.jpg,8.40 AM,97,100,520,Very Crowded,Breakfast,21
+img_60.jpg,9.10 AM,36,35,550,Crowded,Closed/Empty Time,21
+img_62.jpg,9.15 AM,87,85,555,Very Crowded,Closed/Empty Time,21
+img_7.jpg,10.00 AM,1,0,600,Empty,Closed/Empty Time,21
+img_8.jpg,10.16 AM,3,0,616,Empty,Closed/Empty Time,21
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,21
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,21
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,21
+img_13.jpg,11.20 AM,3,0,680,Empty,Closed/Empty Time,21
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,21
+img_15.jpg,11.40 AM,2,0,700,Empty,Closed/Empty Time,21
+img_16.jpg,12.00 PM,21,21,720,Moderate,Lunch,21
+img_17.jpg,12.05 PM,17,20,725,Moderate,Lunch,21
+img_18.jpg,12.10 PM,11,8,730,Less Crowded,Lunch,21
+img_19.jpg,12.15 PM,14,15,735,Moderate,Lunch,21
+img_20.jpg,12.20 PM,10,7,740,Less Crowded,Lunch,21
+img_21.jpg,12.30 PM,25,25,750,Moderate,Lunch,21
+img_22.jpg,12.40 PM,60,60,760,Very Crowded,Lunch,21
+img_23.jpg,12.50 PM,20,23,770,Moderate,Lunch,21
+img_1.jpg,1.10 PM,72,70,790,Very Crowded,Lunch,21
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,21
+img_3.jpg,1.26 PM,83,80,806,Very Crowded,Lunch,21
+img_4.jpg,1.35 PM,89,90,815,Very Crowded,Lunch,21
+img_5.jpg,1.45 PM,101,100,825,Very Crowded,Lunch,21
+img_6.jpg,1.55 PM,101,100,835,Very Crowded,Lunch,21
+img_24.jpg,2.00 PM,100,100,840,Very Crowded,Lunch,21
+img_25.jpg,2.05 PM,18,18,845,Moderate,Closed/Empty Time,21
+img_26.jpg,2.20 PM,12,14,860,Moderate,Closed/Empty Time,21
+img_27.jpg,3.15 PM,1,0,915,Empty,Closed/Empty Time,21
+img_28.jpg,4.20 PM,3,0,980,Empty,Closed/Empty Time,21
+img_29.jpg,6.15 PM,3,0,1095,Empty,Closed/Empty Time,21
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,21
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,21
+img_34.jpg,6.41 PM,3,0,1121,Empty,Closed/Empty Time,21
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,21
+img_38.jpg,7.10 PM,4,2,1150,Less Crowded,Dinner,21
+img_40.jpg,7.15 PM,23,20,1155,Moderate,Dinner,21
+img_42.jpg,7.20 PM,24,22,1160,Moderate,Dinner,21
+img_44.jpg,7.30 PM,68,65,1170,Very Crowded,Dinner,21
+img_46.jpg,7.45 PM,42,45,1185,Crowded,Dinner,21
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,21
+img_50.jpg,8.00 PM,82,80,1200,Very Crowded,Dinner,21
+img_51.jpg,8.10 PM,89,90,1210,Very Crowded,Dinner,21
+img_53.jpg,8.15 PM,46,47,1215,Crowded,Dinner,21
+img_57.jpg,8.30 PM,60,58,1230,Very Crowded,Dinner,21
+img_59.jpg,8.50 PM,61,60,1250,Very Crowded,Dinner,21
+img_61.jpg,9.10 PM,7,5,1270,Less Crowded,Closed/Empty Time,21
+img_63.jpg,9.15 PM,67,65,1275,Very Crowded,Closed/Empty Time,21
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,21
+img_30.jpg,6.20 AM,1,0,380,Empty,Closed/Empty Time,22
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,22
+img_35.jpg,7.05 AM,8,9,425,Less Crowded,Breakfast,22
+img_37.jpg,7.10 AM,12,14,430,Moderate,Breakfast,22
+img_39.jpg,7.15 AM,5,6,435,Less Crowded,Breakfast,22
+img_41.jpg,7.20 AM,23,20,440,Moderate,Breakfast,22
+img_43.jpg,7.30 AM,52,55,450,Very Crowded,Breakfast,22
+img_45.jpg,7.45 AM,67,70,465,Very Crowded,Breakfast,22
+img_47.jpg,7.55 AM,22,23,475,Moderate,Breakfast,22
+img_49.jpg,8.00 AM,47,46,480,Crowded,Breakfast,22
+img_52.jpg,8.15 AM,44,47,495,Crowded,Breakfast,22
+img_54.jpg,8.18 AM,60,60,498,Very Crowded,Breakfast,22
+img_55.jpg,8.20 AM,73,70,500,Very Crowded,Breakfast,22
+img_56.jpg,8.30 AM,89,90,510,Very Crowded,Breakfast,22
+img_58.jpg,8.40 AM,97,100,520,Very Crowded,Breakfast,22
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,22
+img_62.jpg,9.15 AM,88,85,555,Very Crowded,Closed/Empty Time,22
+img_7.jpg,10.00 AM,2,0,600,Empty,Closed/Empty Time,22
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,22
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,22
+img_11.jpg,10.45 AM,1,0,645,Empty,Closed/Empty Time,22
+img_12.jpg,11.00 AM,1,0,660,Empty,Closed/Empty Time,22
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,22
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,22
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,22
+img_16.jpg,12.00 PM,21,21,720,Moderate,Lunch,22
+img_17.jpg,12.05 PM,23,20,725,Moderate,Lunch,22
+img_18.jpg,12.10 PM,9,8,730,Less Crowded,Lunch,22
+img_19.jpg,12.15 PM,18,15,735,Moderate,Lunch,22
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,22
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,22
+img_22.jpg,12.40 PM,62,60,760,Very Crowded,Lunch,22
+img_23.jpg,12.50 PM,21,23,770,Moderate,Lunch,22
+img_1.jpg,1.10 PM,70,70,790,Very Crowded,Lunch,22
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,22
+img_3.jpg,1.26 PM,81,80,806,Very Crowded,Lunch,22
+img_4.jpg,1.35 PM,90,90,815,Very Crowded,Lunch,22
+img_5.jpg,1.45 PM,97,100,825,Very Crowded,Lunch,22
+img_6.jpg,1.55 PM,98,100,835,Very Crowded,Lunch,22
+img_24.jpg,2.00 PM,101,100,840,Very Crowded,Lunch,22
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,22
+img_26.jpg,2.20 PM,16,14,860,Moderate,Closed/Empty Time,22
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,22
+img_28.jpg,4.20 PM,3,0,980,Empty,Closed/Empty Time,22
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,22
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,22
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,22
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,22
+img_36.jpg,7.05 PM,14,11,1145,Moderate,Dinner,22
+img_38.jpg,7.10 PM,0,2,1150,Less Crowded,Dinner,22
+img_40.jpg,7.15 PM,20,20,1155,Moderate,Dinner,22
+img_42.jpg,7.20 PM,20,22,1160,Moderate,Dinner,22
+img_44.jpg,7.30 PM,64,65,1170,Very Crowded,Dinner,22
+img_46.jpg,7.45 PM,48,45,1185,Crowded,Dinner,22
+img_48.jpg,7.55 PM,30,30,1195,Crowded,Dinner,22
+img_50.jpg,8.00 PM,79,80,1200,Very Crowded,Dinner,22
+img_51.jpg,8.10 PM,93,90,1210,Very Crowded,Dinner,22
+img_53.jpg,8.15 PM,50,47,1215,Crowded,Dinner,22
+img_57.jpg,8.30 PM,55,58,1230,Very Crowded,Dinner,22
+img_59.jpg,8.50 PM,57,60,1250,Very Crowded,Dinner,22
+img_61.jpg,9.10 PM,4,5,1270,Less Crowded,Closed/Empty Time,22
+img_63.jpg,9.15 PM,68,65,1275,Very Crowded,Closed/Empty Time,22
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,22
+img_30.jpg,6.20 AM,0,0,380,Empty,Closed/Empty Time,23
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,23
+img_35.jpg,7.05 AM,8,9,425,Less Crowded,Breakfast,23
+img_37.jpg,7.10 AM,11,14,430,Moderate,Breakfast,23
+img_39.jpg,7.15 AM,7,6,435,Less Crowded,Breakfast,23
+img_41.jpg,7.20 AM,18,20,440,Moderate,Breakfast,23
+img_43.jpg,7.30 AM,53,55,450,Very Crowded,Breakfast,23
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,23
+img_47.jpg,7.55 AM,22,23,475,Moderate,Breakfast,23
+img_49.jpg,8.00 AM,44,46,480,Crowded,Breakfast,23
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,23
+img_54.jpg,8.18 AM,63,60,498,Very Crowded,Breakfast,23
+img_55.jpg,8.20 AM,68,70,500,Very Crowded,Breakfast,23
+img_56.jpg,8.30 AM,89,90,510,Very Crowded,Breakfast,23
+img_58.jpg,8.40 AM,102,100,520,Very Crowded,Breakfast,23
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,23
+img_62.jpg,9.15 AM,86,85,555,Very Crowded,Closed/Empty Time,23
+img_7.jpg,10.00 AM,2,0,600,Empty,Closed/Empty Time,23
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,23
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,23
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,23
+img_12.jpg,11.00 AM,1,0,660,Empty,Closed/Empty Time,23
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,23
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,23
+img_15.jpg,11.40 AM,3,0,700,Empty,Closed/Empty Time,23
+img_16.jpg,12.00 PM,19,21,720,Moderate,Lunch,23
+img_17.jpg,12.05 PM,19,20,725,Moderate,Lunch,23
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,23
+img_19.jpg,12.15 PM,12,15,735,Moderate,Lunch,23
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,23
+img_21.jpg,12.30 PM,24,25,750,Moderate,Lunch,23
+img_22.jpg,12.40 PM,63,60,760,Very Crowded,Lunch,23
+img_23.jpg,12.50 PM,20,23,770,Moderate,Lunch,23
+img_1.jpg,1.10 PM,73,70,790,Very Crowded,Lunch,23
+img_2.jpg,1.20 PM,84,85,800,Very Crowded,Lunch,23
+img_3.jpg,1.26 PM,80,80,806,Very Crowded,Lunch,23
+img_4.jpg,1.35 PM,88,90,815,Very Crowded,Lunch,23
+img_5.jpg,1.45 PM,99,100,825,Very Crowded,Lunch,23
+img_6.jpg,1.55 PM,103,100,835,Very Crowded,Lunch,23
+img_24.jpg,2.00 PM,98,100,840,Very Crowded,Lunch,23
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,23
+img_26.jpg,2.20 PM,15,14,860,Moderate,Closed/Empty Time,23
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,23
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,23
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,23
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,23
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,23
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,23
+img_36.jpg,7.05 PM,8,11,1145,Moderate,Dinner,23
+img_38.jpg,7.10 PM,5,2,1150,Less Crowded,Dinner,23
+img_40.jpg,7.15 PM,23,20,1155,Moderate,Dinner,23
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,23
+img_44.jpg,7.30 PM,62,65,1170,Very Crowded,Dinner,23
+img_46.jpg,7.45 PM,46,45,1185,Crowded,Dinner,23
+img_48.jpg,7.55 PM,32,30,1195,Crowded,Dinner,23
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,23
+img_51.jpg,8.10 PM,93,90,1210,Very Crowded,Dinner,23
+img_53.jpg,8.15 PM,44,47,1215,Crowded,Dinner,23
+img_57.jpg,8.30 PM,56,58,1230,Very Crowded,Dinner,23
+img_59.jpg,8.50 PM,58,60,1250,Very Crowded,Dinner,23
+img_61.jpg,9.10 PM,3,5,1270,Less Crowded,Closed/Empty Time,23
+img_63.jpg,9.15 PM,66,65,1275,Very Crowded,Closed/Empty Time,23
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,23
+img_30.jpg,6.20 AM,1,0,380,Empty,Closed/Empty Time,24
+img_33.jpg,6.40 AM,3,0,400,Empty,Closed/Empty Time,24
+img_35.jpg,7.05 AM,11,9,425,Less Crowded,Breakfast,24
+img_37.jpg,7.10 AM,11,14,430,Moderate,Breakfast,24
+img_39.jpg,7.15 AM,9,6,435,Less Crowded,Breakfast,24
+img_41.jpg,7.20 AM,17,20,440,Moderate,Breakfast,24
+img_43.jpg,7.30 AM,54,55,450,Very Crowded,Breakfast,24
+img_45.jpg,7.45 AM,73,70,465,Very Crowded,Breakfast,24
+img_47.jpg,7.55 AM,22,23,475,Moderate,Breakfast,24
+img_49.jpg,8.00 AM,44,46,480,Crowded,Breakfast,24
+img_52.jpg,8.15 AM,46,47,495,Crowded,Breakfast,24
+img_54.jpg,8.18 AM,59,60,498,Very Crowded,Breakfast,24
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,24
+img_56.jpg,8.30 AM,89,90,510,Very Crowded,Breakfast,24
+img_58.jpg,8.40 AM,103,100,520,Very Crowded,Breakfast,24
+img_60.jpg,9.10 AM,34,35,550,Crowded,Closed/Empty Time,24
+img_62.jpg,9.15 AM,87,85,555,Very Crowded,Closed/Empty Time,24
+img_7.jpg,10.00 AM,2,0,600,Empty,Closed/Empty Time,24
+img_8.jpg,10.16 AM,1,0,616,Empty,Closed/Empty Time,24
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,24
+img_11.jpg,10.45 AM,2,0,645,Empty,Closed/Empty Time,24
+img_12.jpg,11.00 AM,3,0,660,Empty,Closed/Empty Time,24
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,24
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,24
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,24
+img_16.jpg,12.00 PM,21,21,720,Moderate,Lunch,24
+img_17.jpg,12.05 PM,21,20,725,Moderate,Lunch,24
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,24
+img_19.jpg,12.15 PM,18,15,735,Moderate,Lunch,24
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,24
+img_21.jpg,12.30 PM,26,25,750,Moderate,Lunch,24
+img_22.jpg,12.40 PM,60,60,760,Very Crowded,Lunch,24
+img_23.jpg,12.50 PM,24,23,770,Moderate,Lunch,24
+img_1.jpg,1.10 PM,70,70,790,Very Crowded,Lunch,24
+img_2.jpg,1.20 PM,84,85,800,Very Crowded,Lunch,24
+img_3.jpg,1.26 PM,83,80,806,Very Crowded,Lunch,24
+img_4.jpg,1.35 PM,88,90,815,Very Crowded,Lunch,24
+img_5.jpg,1.45 PM,100,100,825,Very Crowded,Lunch,24
+img_6.jpg,1.55 PM,103,100,835,Very Crowded,Lunch,24
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,24
+img_25.jpg,2.05 PM,20,18,845,Moderate,Closed/Empty Time,24
+img_26.jpg,2.20 PM,13,14,860,Moderate,Closed/Empty Time,24
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,24
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,24
+img_29.jpg,6.15 PM,2,0,1095,Empty,Closed/Empty Time,24
+img_31.jpg,6.20 PM,3,0,1100,Empty,Closed/Empty Time,24
+img_32.jpg,6.28 PM,1,0,1108,Empty,Closed/Empty Time,24
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,24
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,24
+img_38.jpg,7.10 PM,2,2,1150,Less Crowded,Dinner,24
+img_40.jpg,7.15 PM,21,20,1155,Moderate,Dinner,24
+img_42.jpg,7.20 PM,20,22,1160,Moderate,Dinner,24
+img_44.jpg,7.30 PM,63,65,1170,Very Crowded,Dinner,24
+img_46.jpg,7.45 PM,46,45,1185,Crowded,Dinner,24
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,24
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,24
+img_51.jpg,8.10 PM,90,90,1210,Very Crowded,Dinner,24
+img_53.jpg,8.15 PM,45,47,1215,Crowded,Dinner,24
+img_57.jpg,8.30 PM,58,58,1230,Very Crowded,Dinner,24
+img_59.jpg,8.50 PM,62,60,1250,Very Crowded,Dinner,24
+img_61.jpg,9.10 PM,7,5,1270,Less Crowded,Closed/Empty Time,24
+img_63.jpg,9.15 PM,64,65,1275,Very Crowded,Closed/Empty Time,24
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,24
+img_30.jpg,6.20 AM,1,0,380,Empty,Closed/Empty Time,25
+img_33.jpg,6.40 AM,3,0,400,Empty,Closed/Empty Time,25
+img_35.jpg,7.05 AM,9,9,425,Less Crowded,Breakfast,25
+img_37.jpg,7.10 AM,13,14,430,Moderate,Breakfast,25
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,25
+img_41.jpg,7.20 AM,20,20,440,Moderate,Breakfast,25
+img_43.jpg,7.30 AM,58,55,450,Very Crowded,Breakfast,25
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,25
+img_47.jpg,7.55 AM,21,23,475,Moderate,Breakfast,25
+img_49.jpg,8.00 AM,43,46,480,Crowded,Breakfast,25
+img_52.jpg,8.15 AM,47,47,495,Crowded,Breakfast,25
+img_54.jpg,8.18 AM,58,60,498,Very Crowded,Breakfast,25
+img_55.jpg,8.20 AM,69,70,500,Very Crowded,Breakfast,25
+img_56.jpg,8.30 AM,89,90,510,Very Crowded,Breakfast,25
+img_58.jpg,8.40 AM,100,100,520,Very Crowded,Breakfast,25
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,25
+img_62.jpg,9.15 AM,86,85,555,Very Crowded,Closed/Empty Time,25
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,25
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,25
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,25
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,25
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,25
+img_13.jpg,11.20 AM,1,0,680,Empty,Closed/Empty Time,25
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,25
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,25
+img_16.jpg,12.00 PM,23,21,720,Moderate,Lunch,25
+img_17.jpg,12.05 PM,22,20,725,Moderate,Lunch,25
+img_18.jpg,12.10 PM,9,8,730,Less Crowded,Lunch,25
+img_19.jpg,12.15 PM,13,15,735,Moderate,Lunch,25
+img_20.jpg,12.20 PM,8,7,740,Less Crowded,Lunch,25
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,25
+img_22.jpg,12.40 PM,61,60,760,Very Crowded,Lunch,25
+img_23.jpg,12.50 PM,24,23,770,Moderate,Lunch,25
+img_1.jpg,1.10 PM,70,70,790,Very Crowded,Lunch,25
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,25
+img_3.jpg,1.26 PM,77,80,806,Very Crowded,Lunch,25
+img_4.jpg,1.35 PM,88,90,815,Very Crowded,Lunch,25
+img_5.jpg,1.45 PM,97,100,825,Very Crowded,Lunch,25
+img_6.jpg,1.55 PM,100,100,835,Very Crowded,Lunch,25
+img_24.jpg,2.00 PM,99,100,840,Very Crowded,Lunch,25
+img_25.jpg,2.05 PM,18,18,845,Moderate,Closed/Empty Time,25
+img_26.jpg,2.20 PM,13,14,860,Moderate,Closed/Empty Time,25
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,25
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,25
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,25
+img_31.jpg,6.20 PM,2,0,1100,Empty,Closed/Empty Time,25
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,25
+img_34.jpg,6.41 PM,3,0,1121,Empty,Closed/Empty Time,25
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,25
+img_38.jpg,7.10 PM,4,2,1150,Less Crowded,Dinner,25
+img_40.jpg,7.15 PM,23,20,1155,Moderate,Dinner,25
+img_42.jpg,7.20 PM,25,22,1160,Moderate,Dinner,25
+img_44.jpg,7.30 PM,67,65,1170,Very Crowded,Dinner,25
+img_46.jpg,7.45 PM,45,45,1185,Crowded,Dinner,25
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,25
+img_50.jpg,8.00 PM,81,80,1200,Very Crowded,Dinner,25
+img_51.jpg,8.10 PM,87,90,1210,Very Crowded,Dinner,25
+img_53.jpg,8.15 PM,44,47,1215,Crowded,Dinner,25
+img_57.jpg,8.30 PM,59,58,1230,Very Crowded,Dinner,25
+img_59.jpg,8.50 PM,61,60,1250,Very Crowded,Dinner,25
+img_61.jpg,9.10 PM,7,5,1270,Less Crowded,Closed/Empty Time,25
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,25
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,25
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,26
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,26
+img_35.jpg,7.05 AM,7,9,425,Less Crowded,Breakfast,26
+img_37.jpg,7.10 AM,11,14,430,Moderate,Breakfast,26
+img_39.jpg,7.15 AM,4,6,435,Less Crowded,Breakfast,26
+img_41.jpg,7.20 AM,20,20,440,Moderate,Breakfast,26
+img_43.jpg,7.30 AM,52,55,450,Very Crowded,Breakfast,26
+img_45.jpg,7.45 AM,73,70,465,Very Crowded,Breakfast,26
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,26
+img_49.jpg,8.00 AM,46,46,480,Crowded,Breakfast,26
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,26
+img_54.jpg,8.18 AM,59,60,498,Very Crowded,Breakfast,26
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,26
+img_56.jpg,8.30 AM,92,90,510,Very Crowded,Breakfast,26
+img_58.jpg,8.40 AM,98,100,520,Very Crowded,Breakfast,26
+img_60.jpg,9.10 AM,38,35,550,Crowded,Closed/Empty Time,26
+img_62.jpg,9.15 AM,82,85,555,Very Crowded,Closed/Empty Time,26
+img_7.jpg,10.00 AM,3,0,600,Empty,Closed/Empty Time,26
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,26
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,26
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,26
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,26
+img_13.jpg,11.20 AM,2,0,680,Empty,Closed/Empty Time,26
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,26
+img_15.jpg,11.40 AM,2,0,700,Empty,Closed/Empty Time,26
+img_16.jpg,12.00 PM,18,21,720,Moderate,Lunch,26
+img_17.jpg,12.05 PM,22,20,725,Moderate,Lunch,26
+img_18.jpg,12.10 PM,8,8,730,Less Crowded,Lunch,26
+img_19.jpg,12.15 PM,16,15,735,Moderate,Lunch,26
+img_20.jpg,12.20 PM,4,7,740,Less Crowded,Lunch,26
+img_21.jpg,12.30 PM,27,25,750,Moderate,Lunch,26
+img_22.jpg,12.40 PM,60,60,760,Very Crowded,Lunch,26
+img_23.jpg,12.50 PM,22,23,770,Moderate,Lunch,26
+img_1.jpg,1.10 PM,68,70,790,Very Crowded,Lunch,26
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,26
+img_3.jpg,1.26 PM,81,80,806,Very Crowded,Lunch,26
+img_4.jpg,1.35 PM,92,90,815,Very Crowded,Lunch,26
+img_5.jpg,1.45 PM,102,100,825,Very Crowded,Lunch,26
+img_6.jpg,1.55 PM,103,100,835,Very Crowded,Lunch,26
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,26
+img_25.jpg,2.05 PM,18,18,845,Moderate,Closed/Empty Time,26
+img_26.jpg,2.20 PM,11,14,860,Moderate,Closed/Empty Time,26
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,26
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,26
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,26
+img_31.jpg,6.20 PM,2,0,1100,Empty,Closed/Empty Time,26
+img_32.jpg,6.28 PM,1,0,1108,Empty,Closed/Empty Time,26
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,26
+img_36.jpg,7.05 PM,9,11,1145,Moderate,Dinner,26
+img_38.jpg,7.10 PM,2,2,1150,Less Crowded,Dinner,26
+img_40.jpg,7.15 PM,22,20,1155,Moderate,Dinner,26
+img_42.jpg,7.20 PM,21,22,1160,Moderate,Dinner,26
+img_44.jpg,7.30 PM,68,65,1170,Very Crowded,Dinner,26
+img_46.jpg,7.45 PM,45,45,1185,Crowded,Dinner,26
+img_48.jpg,7.55 PM,31,30,1195,Crowded,Dinner,26
+img_50.jpg,8.00 PM,80,80,1200,Very Crowded,Dinner,26
+img_51.jpg,8.10 PM,93,90,1210,Very Crowded,Dinner,26
+img_53.jpg,8.15 PM,47,47,1215,Crowded,Dinner,26
+img_57.jpg,8.30 PM,61,58,1230,Very Crowded,Dinner,26
+img_59.jpg,8.50 PM,62,60,1250,Very Crowded,Dinner,26
+img_61.jpg,9.10 PM,3,5,1270,Less Crowded,Closed/Empty Time,26
+img_63.jpg,9.15 PM,65,65,1275,Very Crowded,Closed/Empty Time,26
+img_10.jpg,10.30 PM,3,0,1350,Empty,Closed/Empty Time,26
+img_30.jpg,6.20 AM,2,0,380,Empty,Closed/Empty Time,27
+img_33.jpg,6.40 AM,3,0,400,Empty,Closed/Empty Time,27
+img_35.jpg,7.05 AM,7,9,425,Less Crowded,Breakfast,27
+img_37.jpg,7.10 AM,15,14,430,Moderate,Breakfast,27
+img_39.jpg,7.15 AM,9,6,435,Less Crowded,Breakfast,27
+img_41.jpg,7.20 AM,22,20,440,Moderate,Breakfast,27
+img_43.jpg,7.30 AM,53,55,450,Very Crowded,Breakfast,27
+img_45.jpg,7.45 AM,70,70,465,Very Crowded,Breakfast,27
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,27
+img_49.jpg,8.00 AM,45,46,480,Crowded,Breakfast,27
+img_52.jpg,8.15 AM,46,47,495,Crowded,Breakfast,27
+img_54.jpg,8.18 AM,59,60,498,Very Crowded,Breakfast,27
+img_55.jpg,8.20 AM,67,70,500,Very Crowded,Breakfast,27
+img_56.jpg,8.30 AM,89,90,510,Very Crowded,Breakfast,27
+img_58.jpg,8.40 AM,101,100,520,Very Crowded,Breakfast,27
+img_60.jpg,9.10 AM,36,35,550,Crowded,Closed/Empty Time,27
+img_62.jpg,9.15 AM,86,85,555,Very Crowded,Closed/Empty Time,27
+img_7.jpg,10.00 AM,2,0,600,Empty,Closed/Empty Time,27
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,27
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,27
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,27
+img_12.jpg,11.00 AM,3,0,660,Empty,Closed/Empty Time,27
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,27
+img_14.jpg,11.30 AM,0,0,690,Empty,Closed/Empty Time,27
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,27
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,27
+img_17.jpg,12.05 PM,21,20,725,Moderate,Lunch,27
+img_18.jpg,12.10 PM,6,8,730,Less Crowded,Lunch,27
+img_19.jpg,12.15 PM,16,15,735,Moderate,Lunch,27
+img_20.jpg,12.20 PM,6,7,740,Less Crowded,Lunch,27
+img_21.jpg,12.30 PM,23,25,750,Moderate,Lunch,27
+img_22.jpg,12.40 PM,59,60,760,Very Crowded,Lunch,27
+img_23.jpg,12.50 PM,25,23,770,Moderate,Lunch,27
+img_1.jpg,1.10 PM,72,70,790,Very Crowded,Lunch,27
+img_2.jpg,1.20 PM,87,85,800,Very Crowded,Lunch,27
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,27
+img_4.jpg,1.35 PM,92,90,815,Very Crowded,Lunch,27
+img_5.jpg,1.45 PM,103,100,825,Very Crowded,Lunch,27
+img_6.jpg,1.55 PM,102,100,835,Very Crowded,Lunch,27
+img_24.jpg,2.00 PM,98,100,840,Very Crowded,Lunch,27
+img_25.jpg,2.05 PM,19,18,845,Moderate,Closed/Empty Time,27
+img_26.jpg,2.20 PM,16,14,860,Moderate,Closed/Empty Time,27
+img_27.jpg,3.15 PM,1,0,915,Empty,Closed/Empty Time,27
+img_28.jpg,4.20 PM,1,0,980,Empty,Closed/Empty Time,27
+img_29.jpg,6.15 PM,0,0,1095,Empty,Closed/Empty Time,27
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,27
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,27
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,27
+img_36.jpg,7.05 PM,9,11,1145,Moderate,Dinner,27
+img_38.jpg,7.10 PM,2,2,1150,Less Crowded,Dinner,27
+img_40.jpg,7.15 PM,19,20,1155,Moderate,Dinner,27
+img_42.jpg,7.20 PM,21,22,1160,Moderate,Dinner,27
+img_44.jpg,7.30 PM,62,65,1170,Very Crowded,Dinner,27
+img_46.jpg,7.45 PM,44,45,1185,Crowded,Dinner,27
+img_48.jpg,7.55 PM,33,30,1195,Crowded,Dinner,27
+img_50.jpg,8.00 PM,82,80,1200,Very Crowded,Dinner,27
+img_51.jpg,8.10 PM,93,90,1210,Very Crowded,Dinner,27
+img_53.jpg,8.15 PM,47,47,1215,Crowded,Dinner,27
+img_57.jpg,8.30 PM,58,58,1230,Very Crowded,Dinner,27
+img_59.jpg,8.50 PM,58,60,1250,Very Crowded,Dinner,27
+img_61.jpg,9.10 PM,3,5,1270,Less Crowded,Closed/Empty Time,27
+img_63.jpg,9.15 PM,62,65,1275,Very Crowded,Closed/Empty Time,27
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,27
+img_30.jpg,6.20 AM,3,0,380,Empty,Closed/Empty Time,28
+img_33.jpg,6.40 AM,2,0,400,Empty,Closed/Empty Time,28
+img_35.jpg,7.05 AM,11,9,425,Less Crowded,Breakfast,28
+img_37.jpg,7.10 AM,17,14,430,Moderate,Breakfast,28
+img_39.jpg,7.15 AM,6,6,435,Less Crowded,Breakfast,28
+img_41.jpg,7.20 AM,23,20,440,Moderate,Breakfast,28
+img_43.jpg,7.30 AM,57,55,450,Very Crowded,Breakfast,28
+img_45.jpg,7.45 AM,72,70,465,Very Crowded,Breakfast,28
+img_47.jpg,7.55 AM,23,23,475,Moderate,Breakfast,28
+img_49.jpg,8.00 AM,43,46,480,Crowded,Breakfast,28
+img_52.jpg,8.15 AM,44,47,495,Crowded,Breakfast,28
+img_54.jpg,8.18 AM,59,60,498,Very Crowded,Breakfast,28
+img_55.jpg,8.20 AM,67,70,500,Very Crowded,Breakfast,28
+img_56.jpg,8.30 AM,93,90,510,Very Crowded,Breakfast,28
+img_58.jpg,8.40 AM,99,100,520,Very Crowded,Breakfast,28
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,28
+img_62.jpg,9.15 AM,85,85,555,Very Crowded,Closed/Empty Time,28
+img_7.jpg,10.00 AM,2,0,600,Empty,Closed/Empty Time,28
+img_8.jpg,10.16 AM,0,0,616,Empty,Closed/Empty Time,28
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,28
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,28
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,28
+img_13.jpg,11.20 AM,3,0,680,Empty,Closed/Empty Time,28
+img_14.jpg,11.30 AM,3,0,690,Empty,Closed/Empty Time,28
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,28
+img_16.jpg,12.00 PM,24,21,720,Moderate,Lunch,28
+img_17.jpg,12.05 PM,17,20,725,Moderate,Lunch,28
+img_18.jpg,12.10 PM,7,8,730,Less Crowded,Lunch,28
+img_19.jpg,12.15 PM,13,15,735,Moderate,Lunch,28
+img_20.jpg,12.20 PM,5,7,740,Less Crowded,Lunch,28
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,28
+img_22.jpg,12.40 PM,58,60,760,Very Crowded,Lunch,28
+img_23.jpg,12.50 PM,21,23,770,Moderate,Lunch,28
+img_1.jpg,1.10 PM,71,70,790,Very Crowded,Lunch,28
+img_2.jpg,1.20 PM,85,85,800,Very Crowded,Lunch,28
+img_3.jpg,1.26 PM,82,80,806,Very Crowded,Lunch,28
+img_4.jpg,1.35 PM,89,90,815,Very Crowded,Lunch,28
+img_5.jpg,1.45 PM,101,100,825,Very Crowded,Lunch,28
+img_6.jpg,1.55 PM,102,100,835,Very Crowded,Lunch,28
+img_24.jpg,2.00 PM,103,100,840,Very Crowded,Lunch,28
+img_25.jpg,2.05 PM,17,18,845,Moderate,Closed/Empty Time,28
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,28
+img_27.jpg,3.15 PM,0,0,915,Empty,Closed/Empty Time,28
+img_28.jpg,4.20 PM,0,0,980,Empty,Closed/Empty Time,28
+img_29.jpg,6.15 PM,2,0,1095,Empty,Closed/Empty Time,28
+img_31.jpg,6.20 PM,1,0,1100,Empty,Closed/Empty Time,28
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,28
+img_34.jpg,6.41 PM,2,0,1121,Empty,Closed/Empty Time,28
+img_36.jpg,7.05 PM,14,11,1145,Moderate,Dinner,28
+img_38.jpg,7.10 PM,2,2,1150,Less Crowded,Dinner,28
+img_40.jpg,7.15 PM,17,20,1155,Moderate,Dinner,28
+img_42.jpg,7.20 PM,24,22,1160,Moderate,Dinner,28
+img_44.jpg,7.30 PM,62,65,1170,Very Crowded,Dinner,28
+img_46.jpg,7.45 PM,46,45,1185,Crowded,Dinner,28
+img_48.jpg,7.55 PM,31,30,1195,Crowded,Dinner,28
+img_50.jpg,8.00 PM,81,80,1200,Very Crowded,Dinner,28
+img_51.jpg,8.10 PM,88,90,1210,Very Crowded,Dinner,28
+img_53.jpg,8.15 PM,44,47,1215,Crowded,Dinner,28
+img_57.jpg,8.30 PM,56,58,1230,Very Crowded,Dinner,28
+img_59.jpg,8.50 PM,60,60,1250,Very Crowded,Dinner,28
+img_61.jpg,9.10 PM,8,5,1270,Less Crowded,Closed/Empty Time,28
+img_63.jpg,9.15 PM,63,65,1275,Very Crowded,Closed/Empty Time,28
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,28
+img_30.jpg,6.20 AM,3,0,380,Empty,Closed/Empty Time,29
+img_33.jpg,6.40 AM,0,0,400,Empty,Closed/Empty Time,29
+img_35.jpg,7.05 AM,8,9,425,Less Crowded,Breakfast,29
+img_37.jpg,7.10 AM,16,14,430,Moderate,Breakfast,29
+img_39.jpg,7.15 AM,3,6,435,Less Crowded,Breakfast,29
+img_41.jpg,7.20 AM,17,20,440,Moderate,Breakfast,29
+img_43.jpg,7.30 AM,53,55,450,Very Crowded,Breakfast,29
+img_45.jpg,7.45 AM,73,70,465,Very Crowded,Breakfast,29
+img_47.jpg,7.55 AM,23,23,475,Moderate,Breakfast,29
+img_49.jpg,8.00 AM,44,46,480,Crowded,Breakfast,29
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,29
+img_54.jpg,8.18 AM,63,60,498,Very Crowded,Breakfast,29
+img_55.jpg,8.20 AM,70,70,500,Very Crowded,Breakfast,29
+img_56.jpg,8.30 AM,90,90,510,Very Crowded,Breakfast,29
+img_58.jpg,8.40 AM,102,100,520,Very Crowded,Breakfast,29
+img_60.jpg,9.10 AM,37,35,550,Crowded,Closed/Empty Time,29
+img_62.jpg,9.15 AM,88,85,555,Very Crowded,Closed/Empty Time,29
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,29
+img_8.jpg,10.16 AM,2,0,616,Empty,Closed/Empty Time,29
+img_9.jpg,10.30 AM,0,0,630,Empty,Closed/Empty Time,29
+img_11.jpg,10.45 AM,2,0,645,Empty,Closed/Empty Time,29
+img_12.jpg,11.00 AM,2,0,660,Empty,Closed/Empty Time,29
+img_13.jpg,11.20 AM,0,0,680,Empty,Closed/Empty Time,29
+img_14.jpg,11.30 AM,3,0,690,Empty,Closed/Empty Time,29
+img_15.jpg,11.40 AM,0,0,700,Empty,Closed/Empty Time,29
+img_16.jpg,12.00 PM,23,21,720,Moderate,Lunch,29
+img_17.jpg,12.05 PM,17,20,725,Moderate,Lunch,29
+img_18.jpg,12.10 PM,5,8,730,Less Crowded,Lunch,29
+img_19.jpg,12.15 PM,16,15,735,Moderate,Lunch,29
+img_20.jpg,12.20 PM,8,7,740,Less Crowded,Lunch,29
+img_21.jpg,12.30 PM,22,25,750,Moderate,Lunch,29
+img_22.jpg,12.40 PM,63,60,760,Very Crowded,Lunch,29
+img_23.jpg,12.50 PM,21,23,770,Moderate,Lunch,29
+img_1.jpg,1.10 PM,70,70,790,Very Crowded,Lunch,29
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,29
+img_3.jpg,1.26 PM,80,80,806,Very Crowded,Lunch,29
+img_4.jpg,1.35 PM,90,90,815,Very Crowded,Lunch,29
+img_5.jpg,1.45 PM,103,100,825,Very Crowded,Lunch,29
+img_6.jpg,1.55 PM,98,100,835,Very Crowded,Lunch,29
+img_24.jpg,2.00 PM,102,100,840,Very Crowded,Lunch,29
+img_25.jpg,2.05 PM,20,18,845,Moderate,Closed/Empty Time,29
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,29
+img_27.jpg,3.15 PM,1,0,915,Empty,Closed/Empty Time,29
+img_28.jpg,4.20 PM,3,0,980,Empty,Closed/Empty Time,29
+img_29.jpg,6.15 PM,1,0,1095,Empty,Closed/Empty Time,29
+img_31.jpg,6.20 PM,0,0,1100,Empty,Closed/Empty Time,29
+img_32.jpg,6.28 PM,0,0,1108,Empty,Closed/Empty Time,29
+img_34.jpg,6.41 PM,0,0,1121,Empty,Closed/Empty Time,29
+img_36.jpg,7.05 PM,11,11,1145,Moderate,Dinner,29
+img_38.jpg,7.10 PM,1,2,1150,Less Crowded,Dinner,29
+img_40.jpg,7.15 PM,23,20,1155,Moderate,Dinner,29
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,29
+img_44.jpg,7.30 PM,62,65,1170,Very Crowded,Dinner,29
+img_46.jpg,7.45 PM,46,45,1185,Crowded,Dinner,29
+img_48.jpg,7.55 PM,31,30,1195,Crowded,Dinner,29
+img_50.jpg,8.00 PM,77,80,1200,Very Crowded,Dinner,29
+img_51.jpg,8.10 PM,89,90,1210,Very Crowded,Dinner,29
+img_53.jpg,8.15 PM,46,47,1215,Crowded,Dinner,29
+img_57.jpg,8.30 PM,60,58,1230,Very Crowded,Dinner,29
+img_59.jpg,8.50 PM,60,60,1250,Very Crowded,Dinner,29
+img_61.jpg,9.10 PM,3,5,1270,Less Crowded,Closed/Empty Time,29
+img_63.jpg,9.15 PM,62,65,1275,Very Crowded,Closed/Empty Time,29
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,29
+img_30.jpg,6.20 AM,3,0,380,Empty,Closed/Empty Time,30
+img_33.jpg,6.40 AM,1,0,400,Empty,Closed/Empty Time,30
+img_35.jpg,7.05 AM,9,9,425,Less Crowded,Breakfast,30
+img_37.jpg,7.10 AM,16,14,430,Moderate,Breakfast,30
+img_39.jpg,7.15 AM,6,6,435,Less Crowded,Breakfast,30
+img_41.jpg,7.20 AM,22,20,440,Moderate,Breakfast,30
+img_43.jpg,7.30 AM,57,55,450,Very Crowded,Breakfast,30
+img_45.jpg,7.45 AM,68,70,465,Very Crowded,Breakfast,30
+img_47.jpg,7.55 AM,20,23,475,Moderate,Breakfast,30
+img_49.jpg,8.00 AM,43,46,480,Crowded,Breakfast,30
+img_52.jpg,8.15 AM,49,47,495,Crowded,Breakfast,30
+img_54.jpg,8.18 AM,61,60,498,Very Crowded,Breakfast,30
+img_55.jpg,8.20 AM,72,70,500,Very Crowded,Breakfast,30
+img_56.jpg,8.30 AM,88,90,510,Very Crowded,Breakfast,30
+img_58.jpg,8.40 AM,103,100,520,Very Crowded,Breakfast,30
+img_60.jpg,9.10 AM,33,35,550,Crowded,Closed/Empty Time,30
+img_62.jpg,9.15 AM,84,85,555,Very Crowded,Closed/Empty Time,30
+img_7.jpg,10.00 AM,0,0,600,Empty,Closed/Empty Time,30
+img_8.jpg,10.16 AM,3,0,616,Empty,Closed/Empty Time,30
+img_9.jpg,10.30 AM,3,0,630,Empty,Closed/Empty Time,30
+img_11.jpg,10.45 AM,0,0,645,Empty,Closed/Empty Time,30
+img_12.jpg,11.00 AM,0,0,660,Empty,Closed/Empty Time,30
+img_13.jpg,11.20 AM,3,0,680,Empty,Closed/Empty Time,30
+img_14.jpg,11.30 AM,2,0,690,Empty,Closed/Empty Time,30
+img_15.jpg,11.40 AM,3,0,700,Empty,Closed/Empty Time,30
+img_16.jpg,12.00 PM,22,21,720,Moderate,Lunch,30
+img_17.jpg,12.05 PM,22,20,725,Moderate,Lunch,30
+img_18.jpg,12.10 PM,9,8,730,Less Crowded,Lunch,30
+img_19.jpg,12.15 PM,15,15,735,Moderate,Lunch,30
+img_20.jpg,12.20 PM,10,7,740,Less Crowded,Lunch,30
+img_21.jpg,12.30 PM,26,25,750,Moderate,Lunch,30
+img_22.jpg,12.40 PM,58,60,760,Very Crowded,Lunch,30
+img_23.jpg,12.50 PM,21,23,770,Moderate,Lunch,30
+img_1.jpg,1.10 PM,68,70,790,Very Crowded,Lunch,30
+img_2.jpg,1.20 PM,86,85,800,Very Crowded,Lunch,30
+img_3.jpg,1.26 PM,83,80,806,Very Crowded,Lunch,30
+img_4.jpg,1.35 PM,90,90,815,Very Crowded,Lunch,30
+img_5.jpg,1.45 PM,100,100,825,Very Crowded,Lunch,30
+img_6.jpg,1.55 PM,99,100,835,Very Crowded,Lunch,30
+img_24.jpg,2.00 PM,101,100,840,Very Crowded,Lunch,30
+img_25.jpg,2.05 PM,21,18,845,Moderate,Closed/Empty Time,30
+img_26.jpg,2.20 PM,17,14,860,Moderate,Closed/Empty Time,30
+img_27.jpg,3.15 PM,3,0,915,Empty,Closed/Empty Time,30
+img_28.jpg,4.20 PM,2,0,980,Empty,Closed/Empty Time,30
+img_29.jpg,6.15 PM,2,0,1095,Empty,Closed/Empty Time,30
+img_31.jpg,6.20 PM,1,0,1100,Empty,Closed/Empty Time,30
+img_32.jpg,6.28 PM,2,0,1108,Empty,Closed/Empty Time,30
+img_34.jpg,6.41 PM,3,0,1121,Empty,Closed/Empty Time,30
+img_36.jpg,7.05 PM,9,11,1145,Moderate,Dinner,30
+img_38.jpg,7.10 PM,1,2,1150,Less Crowded,Dinner,30
+img_40.jpg,7.15 PM,22,20,1155,Moderate,Dinner,30
+img_42.jpg,7.20 PM,23,22,1160,Moderate,Dinner,30
+img_44.jpg,7.30 PM,68,65,1170,Very Crowded,Dinner,30
+img_46.jpg,7.45 PM,48,45,1185,Crowded,Dinner,30
+img_48.jpg,7.55 PM,29,30,1195,Crowded,Dinner,30
+img_50.jpg,8.00 PM,83,80,1200,Very Crowded,Dinner,30
+img_51.jpg,8.10 PM,90,90,1210,Very Crowded,Dinner,30
+img_53.jpg,8.15 PM,44,47,1215,Crowded,Dinner,30
+img_57.jpg,8.30 PM,60,58,1230,Very Crowded,Dinner,30
+img_59.jpg,8.50 PM,59,60,1250,Very Crowded,Dinner,30
+img_61.jpg,9.10 PM,4,5,1270,Less Crowded,Closed/Empty Time,30
+img_63.jpg,9.15 PM,66,65,1275,Very Crowded,Closed/Empty Time,30
+img_10.jpg,10.30 PM,0,0,1350,Empty,Closed/Empty Time,30
